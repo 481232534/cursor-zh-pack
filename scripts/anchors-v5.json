@@ -1,0 +1,3296 @@
+{
+  "glass": [
+    {
+      "old": "\"<div>New project\"",
+      "new": "\"<div>新建项目\""
+    },
+    {
+      "old": "\"<div>Open project\"",
+      "new": "\"<div>打开项目\""
+    },
+    {
+      "old": "\"<div>Clone repo\"",
+      "new": "\"<div>克隆仓库\""
+    },
+    {
+      "old": "\"<div>Connect via SSH\"",
+      "new": "\"<div>通过 SSH 连接\""
+    },
+    {
+      "old": "\"<div>New Window\"",
+      "new": "\"<div>新建窗口\""
+    },
+    {
+      "old": "\"<div>Steer from iOS\"",
+      "new": "\"<div>用 iOS 遥控\""
+    },
+    {
+      "old": "<span>Recent projects</span>",
+      "new": "<span>最近项目</span>"
+    },
+    {
+      "old": ">View all (",
+      "new": ">查看全部 ("
+    },
+    {
+      "old": "translate-x-[34px]\">Sign in",
+      "new": "translate-x-[34px]\">登录"
+    },
+    {
+      "old": "opacity-80\">Upgrade'",
+      "new": "opacity-80\">升级'"
+    },
+    {
+      "old": "\">Loading...'",
+      "new": "\">加载中...'"
+    },
+    {
+      "old": "action:\"Thinking\"",
+      "new": "action:\"思考\""
+    },
+    {
+      "old": "label:\"File\",trigger:\"text\"",
+      "new": "label:\"文件\",trigger:\"text\""
+    },
+    {
+      "old": "label:\"Edit\",trigger:\"text\"",
+      "new": "label:\"编辑\",trigger:\"text\""
+    },
+    {
+      "old": "label:\"View\",trigger:\"text\"",
+      "new": "label:\"查看\",trigger:\"text\""
+    },
+    {
+      "old": "label:\"Help\",trigger:\"text\"",
+      "new": "label:\"帮助\",trigger:\"text\""
+    },
+    {
+      "old": ",N6l=\"New Chat\",",
+      "new": ",N6l=\"新对话\","
+    },
+    {
+      "old": ",edg=\"New Agent\",",
+      "new": ",edg=\"新智能体\","
+    },
+    {
+      "old": "\"No agents yet\"",
+      "new": "\"暂无智能体\""
+    },
+    {
+      "old": "ja?\"This PC\":Sr?\"This Mac\":\"This Computer\"",
+      "new": "ja?\"此电脑\":Sr?\"此 Mac\":\"此电脑\""
+    },
+    {
+      "old": "_fv=\"Get Started\"",
+      "new": "_fv=\"开始使用\""
+    },
+    {
+      "old": "\"Getting Started\"",
+      "new": "\"入门\""
+    },
+    {
+      "old": "title:{value:\"Connect Slack\",original:\"Connect Slack\"}",
+      "new": "title:{value:\"连接 Slack\",original:\"连接 Slack\"}"
+    },
+    {
+      "old": "s===void 0?\"Automations\":s",
+      "new": "s===void 0?\"自动化\":s"
+    },
+    {
+      "old": "===\"customize\"?\"Customize\":\"Marketplace\"",
+      "new": "===\"customize\"?\"自定义\":\"市场\""
+    },
+    {
+      "old": "\"Hide Sidebar\"",
+      "new": "\"隐藏侧栏\""
+    },
+    {
+      "old": "\"Show Sidebar\"",
+      "new": "\"显示侧栏\""
+    },
+    {
+      "old": "\"Go Back\"",
+      "new": "\"返回\""
+    },
+    {
+      "old": "\"Go Forward\"",
+      "new": "\"前进\""
+    },
+    {
+      "old": "\"Automations\"",
+      "new": "\"自动化\""
+    },
+    {
+      "old": "label:\"Customize\"",
+      "new": "label:\"自定义\""
+    },
+    {
+      "old": "customize:\"Customize\"",
+      "new": "customize:\"自定义\""
+    },
+    {
+      "old": "description:\"Customize\"",
+      "new": "description:\"自定义\""
+    },
+    {
+      "old": "projects:\"Projects\"",
+      "new": "projects:\"项目\""
+    },
+    {
+      "old": "N2i=\"New Project\"",
+      "new": "N2i=\"新建项目\""
+    },
+    {
+      "old": "columnHeader:\"Repositories\"",
+      "new": "columnHeader:\"仓库\""
+    },
+    {
+      "old": "repositoriesColumn:\"Repositories\"",
+      "new": "repositoriesColumn:\"仓库\""
+    },
+    {
+      "old": "w=\"Repositories\"",
+      "new": "w=\"仓库\""
+    },
+    {
+      "old": "heading:\"Customize Sidebar\"",
+      "new": "heading:\"自定义侧栏\""
+    },
+    {
+      "old": "title:\"Customize Sidebar\"",
+      "new": "title:\"自定义侧栏\""
+    },
+    {
+      "old": "\"aria-label\":\"Customize Sidebar\"",
+      "new": "\"aria-label\":\"自定义侧栏\""
+    },
+    {
+      "old": "label:\"Open Workspace\"",
+      "new": "label:\"打开工作区\""
+    },
+    {
+      "old": "It(11967,\"Open Workspace\")",
+      "new": "It(11967,\"打开工作区\")"
+    },
+    {
+      "old": "p0e()===\"search\"?\"Open Workspace\"",
+      "new": "p0e()===\"search\"?\"打开工作区\""
+    },
+    {
+      "old": "isPinned?\"Unpin\":\"Pin\"",
+      "new": "isPinned?\"取消固定\":\"固定\""
+    },
+    {
+      "old": "l?\"Unpin\":\"Pin\"",
+      "new": "l?\"取消固定\":\"固定\""
+    },
+    {
+      "old": "hintText:\"Archive\"",
+      "new": "hintText:\"归档\""
+    },
+    {
+      "old": "isArchived?\"Restore\":\"Archive\"",
+      "new": "isArchived?\"恢复\":\"归档\""
+    },
+    {
+      "old": "\"Completed\"",
+      "new": "\"已完成\""
+    },
+    {
+      "old": "\"Generating\"",
+      "new": "\"生成中\""
+    },
+    {
+      "old": "{show:\"Show Apps\",hide:\"Hide Apps\"}",
+      "new": "{show:\"显示应用\",hide:\"隐藏应用\"}"
+    },
+    {
+      "old": "\"aria-label\":\"Add agents, context, tools\"",
+      "new": "\"aria-label\":\"添加智能体、上下文、工具\""
+    },
+    {
+      "old": "ariaLabel:\"Add agents, context, tools\"",
+      "new": "ariaLabel:\"添加智能体、上下文、工具\""
+    },
+    {
+      "old": "label:\"Plan New Idea\"",
+      "new": "label:\"规划新想法\""
+    },
+    {
+      "old": "name:\"Multitask\"",
+      "new": "name:\"多任务\""
+    },
+    {
+      "old": "label:\"Multitask\"",
+      "new": "label:\"多任务\""
+    },
+    {
+      "old": "\"Start with a plan\"",
+      "new": "\"先做方案\""
+    },
+    {
+      "old": "\"Debug an issue\"",
+      "new": "\"排查问题\""
+    },
+    {
+      "old": "\"Dismiss recommendation\"",
+      "new": "\"忽略推荐\""
+    },
+    {
+      "old": "N(\"glass.mainBot.chatActions\",\"Chat actions\")",
+      "new": "N(\"glass.mainBot.chatActions\",\"聊天操作\")"
+    },
+    {
+      "old": "N(\"glass.agentPanel.chatActions\",\"Chat actions\")",
+      "new": "N(\"glass.agentPanel.chatActions\",\"聊天操作\")"
+    },
+    {
+      "old": "Ar=(Zr=\"Projects\")",
+      "new": "Ar=(Zr=\"项目\")"
+    },
+    {
+      "old": "children:\"Repositories\"",
+      "new": "children:\"仓库\""
+    },
+    {
+      "old": "\"Open Workspace\"",
+      "new": "\"打开工作区\""
+    },
+    {
+      "old": "title:\"Search\"",
+      "new": "title:\"搜索\""
+    },
+    {
+      "old": "\"aria-label\":\"Search\"",
+      "new": "\"aria-label\":\"搜索\""
+    },
+    {
+      "old": "\"New Agent\"",
+      "new": "\"新智能体\""
+    },
+    {
+      "old": "\"New Project\"",
+      "new": "\"新建项目\""
+    },
+    {
+      "old": "title:\"Pin\"",
+      "new": "title:\"固定\""
+    },
+    {
+      "old": "title:\"Archive\"",
+      "new": "title:\"归档\""
+    },
+    {
+      "old": "\"Unpin\"",
+      "new": "\"取消固定\""
+    },
+    {
+      "old": "\"Restore\"",
+      "new": "\"恢复\""
+    },
+    {
+      "old": "\"aria-label\":\"Settings\"",
+      "new": "\"aria-label\":\"设置\""
+    },
+    {
+      "old": "title:\"Settings\"",
+      "new": "title:\"设置\""
+    },
+    {
+      "old": "label:\"Settings\"",
+      "new": "label:\"设置\""
+    },
+    {
+      "old": "children:\"IDE\"",
+      "new": "children:\"编辑器\""
+    },
+    {
+      "old": "N(\"glass.agentPanel.promptInput.ariaLabel\",\"Prompt\")",
+      "new": "N(\"glass.agentPanel.promptInput.ariaLabel\",\"提示词\")"
+    },
+    {
+      "old": "ariaLabel:\"Prompt\"",
+      "new": "ariaLabel:\"提示词\""
+    },
+    {
+      "old": "\"Start voice input\"",
+      "new": "\"开始语音输入\""
+    },
+    {
+      "old": "\"Start voice chat\"",
+      "new": "\"开始语音对话\""
+    },
+    {
+      "old": "\"Voice input unavailable\"",
+      "new": "\"语音输入不可用\""
+    },
+    {
+      "old": "\"Hide tips\"",
+      "new": "\"隐藏提示\""
+    },
+    {
+      "old": "\"No Projects Yet\"",
+      "new": "\"暂无项目\""
+    },
+    {
+      "old": "\"Create a new project to get started\"",
+      "new": "\"新建一个项目以开始\""
+    },
+    {
+      "old": "\"All repositories\"",
+      "new": "\"全部仓库\""
+    },
+    {
+      "old": "placeholder:\"Search repositories\"",
+      "new": "placeholder:\"搜索仓库\""
+    },
+    {
+      "old": "label:\"Search\"",
+      "new": "label:\"搜索\""
+    },
+    {
+      "old": "hintText:\"Settings\"",
+      "new": "hintText:\"设置\""
+    },
+    {
+      "old": "i?\"Close Settings\":\"Settings\"",
+      "new": "i?\"关闭设置\":\"设置\""
+    },
+    {
+      "old": "projectAgentsSectionLabel:\"Projects\"",
+      "new": "projectAgentsSectionLabel:\"项目\""
+    },
+    {
+      "old": "sectionTitle:\"Projects\"",
+      "new": "sectionTitle:\"项目\""
+    },
+    {
+      "old": "collectionLabel:\"Repositories\"",
+      "new": "collectionLabel:\"仓库\""
+    },
+    {
+      "old": "\"aria-label\":\"Repositories\"",
+      "new": "\"aria-label\":\"仓库\""
+    },
+    {
+      "old": "?\"取消固定\":\"Pin\"",
+      "new": "?\"取消固定\":\"固定\""
+    },
+    {
+      "old": "label:\"Pin\"",
+      "new": "label:\"固定\""
+    },
+    {
+      "old": "\"Archive\"",
+      "new": "\"归档\""
+    },
+    {
+      "old": "\"Unarchive\"",
+      "new": "\"取消归档\""
+    },
+    {
+      "old": "\"aria-label\":\"IDE\"",
+      "new": "\"aria-label\":\"编辑器\""
+    },
+    {
+      "old": "label:\"Connect Slack\"",
+      "new": "label:\"连接 Slack\""
+    },
+    {
+      "old": "label:\"Connect GitHub\"",
+      "new": "label:\"连接 GitHub\""
+    },
+    {
+      "old": "label:\"Install a plugin\"",
+      "new": "label:\"安装插件\""
+    },
+    {
+      "old": "\"Select a project\"",
+      "new": "\"选择项目\""
+    },
+    {
+      "old": ", select project`",
+      "new": "，选择项目`"
+    },
+    {
+      "old": "`Skip step ${n.ordinal} of ${n.total}`",
+      "new": "`第 ${n.ordinal} 步，共 ${n.total} 步`"
+    },
+    {
+      "old": "\"aria-label\":\"Resize sidebar\"",
+      "new": "\"aria-label\":\"调整侧栏宽度\""
+    },
+    {
+      "old": "label:\"Resize sidebar\"",
+      "new": "label:\"调整侧栏宽度\""
+    },
+    {
+      "old": "containerAriaLabel:w=\"Notifications\"",
+      "new": "containerAriaLabel:w=\"通知\""
+    },
+    {
+      "old": "\"Mark as Read\"",
+      "new": "\"标记为已读\""
+    },
+    {
+      "old": "\"Mark as Unread\"",
+      "new": "\"标记为未读\""
+    },
+    {
+      "old": "\"Open in New Window\"",
+      "new": "\"在新窗口打开\""
+    },
+    {
+      "old": "y?X:\"Thought\"",
+      "new": "y?X:\"思考\""
+    },
+    {
+      "old": "\"Loading account information\"",
+      "new": "\"正在加载账号信息\""
+    },
+    {
+      "old": ", select environment`",
+      "new": "，选择环境`"
+    },
+    {
+      "old": "\"Align on implementation before writing code\"",
+      "new": "\"在写代码前先对齐实现方案\""
+    },
+    {
+      "old": "\"Find root causes and fix tricky bugs\"",
+      "new": "\"定位根因并修复疑难问题\""
+    },
+    {
+      "old": "\"Put a project on a shareable live link\"",
+      "new": "\"把项目发布为可分享的在线链接\""
+    },
+    {
+      "old": "\"Check schema, indexes, and risky access rules\"",
+      "new": "\"检查表结构、索引与有风险的访问规则\""
+    },
+    {
+      "old": "title:\"Open Folder\"",
+      "new": "title:\"打开文件夹\""
+    },
+    {
+      "old": "children:\"Open Folder\"",
+      "new": "children:\"打开文件夹\""
+    },
+    {
+      "old": "actionTitle:\"Open Folder\"",
+      "new": "actionTitle:\"打开文件夹\""
+    },
+    {
+      "old": "??\"Open Folder\"",
+      "new": "??\"打开文件夹\""
+    },
+    {
+      "old": "title:\"New Terminal\"",
+      "new": "title:\"新建终端\""
+    },
+    {
+      "old": "\"glass.terminal.treeNewTerminal\",\"New Terminal\"",
+      "new": "\"glass.terminal.treeNewTerminal\",\"新建终端\""
+    },
+    {
+      "old": "title:\"New Browser\"",
+      "new": "title:\"新建浏览器\""
+    },
+    {
+      "old": "title:\"Open IDE\"",
+      "new": "title:\"打开 IDE\""
+    },
+    {
+      "old": "title:\"Exit\"",
+      "new": "title:\"退出\""
+    },
+    {
+      "old": "title:\"Redo\"",
+      "new": "title:\"重做\""
+    },
+    {
+      "old": "title:\"Undo\"",
+      "new": "title:\"撤销\""
+    },
+    {
+      "old": "title:\"Copy\"",
+      "new": "title:\"复制\""
+    },
+    {
+      "old": "title:\"Paste\"",
+      "new": "title:\"粘贴\""
+    },
+    {
+      "old": "title:\"Select All\"",
+      "new": "title:\"全选\""
+    },
+    {
+      "old": "title:\"Toggle Git Blame\"",
+      "new": "title:\"切换 Git 归属标注\""
+    },
+    {
+      "old": "title:\"View License\"",
+      "new": "title:\"查看许可证\""
+    },
+    {
+      "old": "title:\"Command Palette\"",
+      "new": "title:\"命令面板\""
+    },
+    {
+      "old": "title:\"Keyboard Shortcuts\"",
+      "new": "title:\"键盘快捷键\""
+    },
+    {
+      "old": "title:\"About Cursor\"",
+      "new": "title:\"关于 Cursor\""
+    },
+    {
+      "old": "title:\"Delete Cloud-Agent Cache\"",
+      "new": "title:\"清除云端智能体缓存\""
+    },
+    {
+      "old": "title:\"Minimap\"",
+      "new": "title:\"小地图\""
+    },
+    {
+      "old": "title:\"Zoom In\"",
+      "new": "title:\"放大\""
+    },
+    {
+      "old": "title:\"Zoom Out\"",
+      "new": "title:\"缩小\""
+    },
+    {
+      "old": "title:\"Reset Zoom\"",
+      "new": "title:\"重置缩放\""
+    },
+    {
+      "old": "title:\"Browser\"",
+      "new": "title:\"浏览器\""
+    },
+    {
+      "old": "title:\"Files\"",
+      "new": "title:\"文件\""
+    },
+    {
+      "old": "title:\"Changes\"",
+      "new": "title:\"更改\""
+    },
+    {
+      "old": "title:\"Terminal\"",
+      "new": "title:\"终端\""
+    },
+    {
+      "old": "title:\"Status Bar\"",
+      "new": "title:\"状态栏\""
+    },
+    {
+      "old": "children:\"View All Models\"",
+      "new": "children:\"查看全部模型\""
+    },
+    {
+      "old": "children:\"API Keys\"",
+      "new": "children:\"API 密钥\""
+    },
+    {
+      "old": "accessibleLabel:\"OpenAI API Key\"",
+      "new": "accessibleLabel:\"OpenAI API 密钥\""
+    },
+    {
+      "old": "title:\"OpenAI API Key\"",
+      "new": "title:\"OpenAI API 密钥\""
+    },
+    {
+      "old": "ariaLabel:\"OpenAI API key\"",
+      "new": "ariaLabel:\"OpenAI API 密钥\""
+    },
+    {
+      "old": "ariaLabel:\"Azure OpenAI API key\"",
+      "new": "ariaLabel:\"Azure OpenAI API 密钥\""
+    },
+    {
+      "old": "children:[\"You can put in\",\" \",yy(u2c,{onClick:()=>{r.open(\"https://platform.openai.com/account/api-keys\")},children:\"your OpenAI key\"}),\" \",\"to use OpenAI models at cost.\"]",
+      "new": "children:[\"你可以填入\",\" \",yy(u2c,{onClick:()=>{r.open(\"https://platform.openai.com/account/api-keys\")},children:\"你自己的 OpenAI 密钥\"}),\" \",\"以按用量付费的方式使用 OpenAI 模型。\"]"
+    },
+    {
+      "old": "children:[\"You can put in\",\" \",yy(u2c,{onClick:()=>{s.open(\"https://console.anthropic.com/settings/keys\")},children:\"your Anthropic key\"}),\" \",'to use Claude at cost. When enabled, this key will be used for all models beginning with \"claude-\".']",
+      "new": "children:[\"你可以填入\",\" \",yy(u2c,{onClick:()=>{s.open(\"https://console.anthropic.com/settings/keys\")},children:\"你自己的 Anthropic 密钥\"}),\" \",'以按用量付费的方式使用 Claude。启用后，此密钥将用于所有以“claude-”开头的模型。']"
+    },
+    {
+      "old": "children:[\"You can put in\",\" \",yy(u2c,{onClick:()=>{s.open(\"https://aistudio.google.com/app/apikey\")},children:\"your Google AI Studio key\"}),\" \",\"to use Google models at-cost.\"]",
+      "new": "children:[\"你可以填入\",\" \",yy(u2c,{onClick:()=>{s.open(\"https://aistudio.google.com/app/apikey\")},children:\"你自己的 Google AI Studio 密钥\"}),\" \",\"以按用量付费的方式使用 Google 模型。\"]"
+    },
+    {
+      "old": "label:\"Override OpenAI Base URL\"",
+      "new": "label:\"覆盖 OpenAI Base URL\""
+    },
+    {
+      "old": "description:\"Change the base URL for OpenAI API requests.\"",
+      "new": "description:\"更改 OpenAI API 请求的 Base URL。\""
+    },
+    {
+      "old": "{label:\"Google API Key\",regex:",
+      "new": "{label:\"谷歌 API 密钥\",regex:"
+    },
+    {
+      "old": "description:\"Configure Azure OpenAI to use OpenAI models through your Azure account.\"",
+      "new": "description:\"通过你的 Azure 账号配置 Azure OpenAI，以使用 OpenAI 模型。\""
+    },
+    {
+      "old": "label:\"Use Azure OpenAI\"",
+      "new": "label:\"使用 Azure OpenAI\""
+    },
+    {
+      "old": "placeholder:\"Enter API key\"",
+      "new": "placeholder:\"输入 API 密钥\""
+    },
+    {
+      "old": "label:\"API Key\"",
+      "new": "label:\"API 密钥\""
+    },
+    {
+      "old": "children:[\"Configure AWS Bedrock to use Anthropic Claude models through your AWS account.\",yy(\"br\",{}),\"Cursor Enterprise teams can configure IAM roles to access Bedrock without any Access Keys.\"]",
+      "new": "children:[\"通过你的 AWS 账号配置 AWS Bedrock，以使用 Anthropic Claude 模型。\",yy(\"br\",{}),\"Cursor 企业团队可配置 IAM 角色，无需任何访问密钥即可使用 Bedrock。\"]"
+    },
+    {
+      "old": "label:\"Use AWS Bedrock\"",
+      "new": "label:\"使用 AWS Bedrock\""
+    },
+    {
+      "old": "label:\"Access Key ID\"",
+      "new": "label:\"访问密钥 ID\""
+    },
+    {
+      "old": "ariaLabel:\"AWS Bedrock access key ID\"",
+      "new": "ariaLabel:\"AWS Bedrock 访问密钥 ID\""
+    },
+    {
+      "old": "placeholder:\"AWS Access Key ID\"",
+      "new": "placeholder:\"AWS 访问密钥 ID\""
+    },
+    {
+      "old": "label:\"Secret Access Key\"",
+      "new": "label:\"秘密访问密钥\""
+    },
+    {
+      "old": "ariaLabel:\"AWS Bedrock secret access key\"",
+      "new": "ariaLabel:\"AWS Bedrock 秘密访问密钥\""
+    },
+    {
+      "old": "placeholder:\"AWS Secret Access Key\"",
+      "new": "placeholder:\"AWS 秘密访问密钥\""
+    },
+    {
+      "old": "description:\"AWS region used by your team's Bedrock configuration.\"",
+      "new": "description:\"你团队的 Bedrock 配置所使用的 AWS 区域。\""
+    },
+    {
+      "old": "label:\"Region\"",
+      "new": "label:\"区域\""
+    },
+    {
+      "old": "ariaLabel:\"AWS Bedrock region\"",
+      "new": "ariaLabel:\"AWS Bedrock 区域\""
+    },
+    {
+      "old": "label:\"Test Model\"",
+      "new": "label:\"测试模型\""
+    },
+    {
+      "old": "ariaLabel:\"AWS Bedrock test model\"",
+      "new": "ariaLabel:\"AWS Bedrock 测试模型\""
+    },
+    {
+      "old": "placeholder:\"e.g. anthropic.claude-3-sonnet-20240229-v1:0\"",
+      "new": "placeholder:\"例如：anthropic.claude-3-sonnet-20240229-v1:0\""
+    },
+    {
+      "old": "placeholder:\"e.g. us-east-1\"",
+      "new": "placeholder:\"例如：us-east-1\""
+    },
+    {
+      "old": "description:\"OpenAI-compatible API base URL for the local agent.\"",
+      "new": "description:\"本地智能体使用的 OpenAI 兼容 API Base URL。\""
+    },
+    {
+      "old": "??\"Not configured\"",
+      "new": "??\"未配置\""
+    },
+    {
+      "old": "?\"Configured\":\"Not configured\"",
+      "new": "?\"已配置\":\"未配置\""
+    },
+    {
+      "old": "label:\"Use OpenAI API Key\"",
+      "new": "label:\"使用 OpenAI API 密钥\""
+    },
+    {
+      "old": "description:\"Secret saved\"",
+      "new": "description:\"密钥已保存\""
+    },
+    {
+      "old": "children:\"Current Plan\"",
+      "new": "children:\"当前计划\""
+    },
+    {
+      "old": "children:\"Upgrade Available\"",
+      "new": "children:\"可升级\""
+    },
+    {
+      "old": "children:\"Adjust Plan\"",
+      "new": "children:\"调整计划\""
+    },
+    {
+      "old": "Included usage with your subscription.${t?` Resets ${cic(t)}.`:\"\"}${e?\" Used before your credits.\":\"\"}",
+      "new": "订阅包含的用量。${t?` 于 ${cic(t)} 重置。`:\"\"}${e?\" 在你的积分之前使用。\":\"\"}"
+    },
+    {
+      "old": "Weekly usage resets on ${cic(i)} (${Yev(i,e)})",
+      "new": "每周用量于 ${cic(i)} 重置（剩余 ${Yev(i,e)}）"
+    },
+    {
+      "old": "Your usage resets on ${e} (${n} ${n===1?\"day\":\"days\"}).",
+      "new": "您的用量于 ${e} 重置（剩余 ${n} 天）。"
+    },
+    {
+      "old": "Your usage resets on ${e}.",
+      "new": "您的用量于 ${e} 重置。"
+    },
+    {
+      "old": "return`${a} day${a===1?\"\":\"s\"} left`",
+      "new": "return`剩余 ${a} 天`"
+    },
+    {
+      "old": "MGg(t){return`${_Mw(t)}% used`}",
+      "new": "MGg(t){return`${_Mw(t)}% 已用`}"
+    },
+    {
+      "old": "children:[\"Resets \"",
+      "new": "children:[\"重置于 \""
+    },
+    {
+      "old": "BOw(t){return t.startsWith(\"Get \")?t:`Get ${t}`}",
+      "new": "BOw(t){return t.startsWith(\"Get \")?t:`获取 ${t}`}"
+    },
+    {
+      "old": "MJl(t){return t===void 0?\"Get more usage to continue\":\"Get more usage to switch models\"}",
+      "new": "MJl(t){return t===void 0?\"获取更多用量以继续\":\"获取更多用量以切换模型\"}"
+    },
+    {
+      "old": "const h=`Included in ${o}`",
+      "new": "const h=`包含于 ${o}`"
+    },
+    {
+      "old": "const E=`Included in ${g}`",
+      "new": "const E=`包含于 ${g}`"
+    },
+    {
+      "old": "const x=`Included in ${g}`",
+      "new": "const x=`包含于 ${g}`"
+    },
+    {
+      "old": "`Included in ${r.trim()} Plan`:\"Included\"",
+      "new": "`包含于 ${r.trim()} 套餐`:\"包含\""
+    },
+    {
+      "old": "children:[u,\"% used\"]",
+      "new": "children:[u,\"% 已用\"]"
+    },
+    {
+      "old": "qX1={disconnected:{label:\"Offline\",tone:\"warning\"},connecting:{label:\"Connecting\\u2026\",tone:\"secondary\"},connected:{label:\"Connected\",tone:\"success\"},clockSkewed:{label:\"Check Clock\",tone:\"warning\"},otherWindow:{label:\"Another Window\",tone:\"secondary\"}}",
+      "new": "qX1={disconnected:{label:\"离线\",tone:\"warning\"},connecting:{label:\"正在连接…\",tone:\"secondary\"},connected:{label:\"已连接\",tone:\"success\"},clockSkewed:{label:\"检查时钟\",tone:\"warning\"},otherWindow:{label:\"另一个窗口\",tone:\"secondary\"}}"
+    },
+    {
+      "old": "[\"You can put in\",\" \"",
+      "new": "[\"你可以填入\",\" \""
+    },
+    {
+      "old": "children:\"your Anthropic key\"",
+      "new": "children:\"你的 Anthropic 密钥\""
+    },
+    {
+      "old": "to use Claude at cost. When enabled, this key will be used for all models beginning with \"claude-\".",
+      "new": "以成本价使用 Claude。启用后，此密钥将用于所有以 \"claude-\" 开头的模型。"
+    },
+    {
+      "old": "label:\"Google API Key\"",
+      "new": "label:\"Google API 密钥\""
+    },
+    {
+      "old": "label:\"Deployment Name\"",
+      "new": "label:\"部署名称\""
+    },
+    {
+      "old": "placeholder:\"e.g. my-resource.openai.azure.com\"",
+      "new": "placeholder:\"例如：my-resource.openai.azure.com\""
+    },
+    {
+      "old": "placeholder:\"e.g. gpt-35-turbo\"",
+      "new": "placeholder:\"例如：gpt-35-turbo\""
+    },
+    {
+      "old": "eGn=\"Remote Control\"",
+      "new": "eGn=\"远程控制\""
+    },
+    {
+      "old": "BX1=\"Enable Remote Control for this computer\"",
+      "new": "BX1=\"为此电脑启用远程控制\""
+    },
+    {
+      "old": "N$c=\"Allow agents on this computer to be controlled from your other devices\"",
+      "new": "N$c=\"允许你通过其他设备控制此电脑上的智能体\""
+    },
+    {
+      "old": "label:\"Automatically register computers\"",
+      "new": "label:\"自动注册电脑\""
+    },
+    {
+      "old": "\"Register eligible computers when you sign in\"",
+      "new": "\"登录时注册符合条件的电脑\""
+    },
+    {
+      "old": "O$c=\"Computer Name\"",
+      "new": "O$c=\"电脑名称\""
+    },
+    {
+      "old": "zX1=\"Change how this computer appears on other devices\"",
+      "new": "zX1=\"更改此电脑在其他设备上的显示方式\""
+    },
+    {
+      "old": "label:\"Keep This Computer Awake\"",
+      "new": "label:\"保持此电脑唤醒\""
+    },
+    {
+      "old": "description:\"Prevent sleep when this computer is plugged in and Remote Control is enabled\"",
+      "new": "description:\"当此电脑接通电源且启用远程控制时，防止其休眠\""
+    },
+    {
+      "old": "UX1=\"Disable Remote Control on all of my computers\"",
+      "new": "UX1=\"在我的所有电脑上禁用远程控制\""
+    },
+    {
+      "old": "HX1=\"Unregisters every computer on your account; you can register any of them again later\"",
+      "new": "HX1=\"注销你账户上的所有电脑；之后可随时重新注册\""
+    },
+    {
+      "old": "$X1=\"Unregister All\"",
+      "new": "$X1=\"全部注销\""
+    },
+    {
+      "old": "P$c=\"Paired Devices\"",
+      "new": "P$c=\"已配对设备\""
+    },
+    {
+      "old": "xX1=\"No devices are currently paired with this computer.\"",
+      "new": "xX1=\"当前没有设备与此电脑配对。\""
+    },
+    {
+      "old": "UJi={sectionTitle:\"Self-Hosted Workers\",workersLabel:\"Enable local self-hosted workers\",workersDescription:\"Allow cloud agents to run in your local environment.\"}",
+      "new": "UJi={sectionTitle:\"自托管 Worker\",workersLabel:\"启用本地自托管 Worker\",workersDescription:\"允许云端智能体在你的本地环境中运行。\"}"
+    },
+    {
+      "old": "title:\"Context and Tools\"",
+      "new": "title:\"上下文与工具\""
+    },
+    {
+      "old": "accessibleLabel:\"Context and Tools\"",
+      "new": "accessibleLabel:\"上下文与工具\""
+    },
+    {
+      "old": "label:\"Partial Accepts\"",
+      "new": "label:\"部分接受\""
+    },
+    {
+      "old": "description:`Accept the next word of a suggestion via ${u}`",
+      "new": "description:`通过 ${u} 接受建议的下一个词`"
+    },
+    {
+      "old": "\"aria-label\":`Partial Accepts keybinding: ${u}`",
+      "new": "\"aria-label\":`部分接受快捷键：${u}`"
+    },
+    {
+      "old": "label:\"Suggestions While Commenting\"",
+      "new": "label:\"注释时给出建议\""
+    },
+    {
+      "old": "description:\"Allow Tab to trigger while in a comment region\"",
+      "new": "description:\"允许在注释区域中通过 Tab 触发\""
+    },
+    {
+      "old": "label:\"Whitespace-Only Suggestions\"",
+      "new": "label:\"仅空白建议\""
+    },
+    {
+      "old": "description:\"Suggest edits like new lines and indentation that modify whitespace only\"",
+      "new": "description:\"仅修改空白内容的编辑建议，例如新行和缩进\""
+    },
+    {
+      "old": "label:\"Imports\",children:",
+      "new": "label:\"导入\",children:"
+    },
+    {
+      "old": "description:`Automatically import necessary modules for ${b}`",
+      "new": "description:`自动导入 ${b} 所需的模块`"
+    },
+    {
+      "old": "label:\"Auto Import for Python\"",
+      "new": "label:\"Python 自动导入\""
+    },
+    {
+      "old": "description:\"Enable auto import for Python. This is a beta feature.\"",
+      "new": "description:\"启用 Python 自动导入。此为测试版功能。\""
+    },
+    {
+      "old": "label:\"Ignored Files\"",
+      "new": "label:\"忽略文件\""
+    },
+    {
+      "old": "ariaLabel:\"Ignored Files\"",
+      "new": "ariaLabel:\"忽略文件\""
+    },
+    {
+      "old": "description:\"Glob patterns for files where Cursor Tab will not suggest\"",
+      "new": "description:\"Cursor Tab 不给出建议的文件的 Glob 模式\""
+    },
+    {
+      "old": "title:\"Codebase\"",
+      "new": "title:\"代码库\""
+    },
+    {
+      "old": "label:\"Index Repositories for Instant Grep\"",
+      "new": "label:\"为即时 Grep 建立仓库索引\""
+    },
+    {
+      "old": "general:\"General\",\"vscode-settings\":\"VS Code Settings\",appearance:\"Appearance\",fun:\"Fun\",\"plan-usage\":\"Plan & Usage\",chat:\"Agents\",browser:\"Browser & Network\",tab:\"Tab\",models:\"Models\",voice:\"Voice\",\"git-prs\":\"Source Control\",rules:\"Rules, Skills, Subagents\",plugins:\"Plugins\",customize:\"自定义\",indexing:\"Code Intelligence\",mcp:\"Tools & MCPs\",hooks:\"Hooks\",beta:\"Beta\",network:\"Network\",\"background-composer\":\"Cloud Agents\",worktrees:\"Worktrees\",developer:\"Developer\"",
+      "new": "general:\"常规\",\"vscode-settings\":\"VS Code 设置\",appearance:\"外观\",fun:\"趣味\",\"plan-usage\":\"计划与用量\",chat:\"智能体\",browser:\"浏览器与网络\",tab:\"标签页\",models:\"模型\",voice:\"语音\",\"git-prs\":\"源代码管理\",rules:\"规则、技能与子智能体\",plugins:\"插件\",customize:\"自定义\",indexing:\"代码智能\",mcp:\"工具与 MCP\",hooks:\"钩子\",beta:\"测试版\",network:\"网络\",\"background-composer\":\"云端智能体\",worktrees:\"工作树\",developer:\"开发者\""
+    },
+    {
+      "old": "id:\"plugins\",label:\"Plugins\"",
+      "new": "id:\"plugins\",label:\"插件\""
+    },
+    {
+      "old": "id:\"mcps\",label:\"MCPs\"",
+      "new": "id:\"mcps\",label:\"MCP\""
+    },
+    {
+      "old": "id:\"skills\",label:\"Skills\"",
+      "new": "id:\"skills\",label:\"技能\""
+    },
+    {
+      "old": "id:\"agents\",label:\"Subagents\"",
+      "new": "id:\"agents\",label:\"子智能体\""
+    },
+    {
+      "old": "id:\"subagents\",label:\"Subagents\"",
+      "new": "id:\"subagents\",label:\"子智能体\""
+    },
+    {
+      "old": "id:\"rules\",label:\"Rules\"",
+      "new": "id:\"rules\",label:\"规则\""
+    },
+    {
+      "old": "id:\"commands\",label:\"Commands\"",
+      "new": "id:\"commands\",label:\"命令\""
+    },
+    {
+      "old": "id:\"hooks\",label:\"Hooks\"",
+      "new": "id:\"hooks\",label:\"钩子\""
+    },
+    {
+      "old": "label:\"MCPs\",items:",
+      "new": "label:\"MCP\",items:"
+    },
+    {
+      "old": "label:\"Skills\",items:",
+      "new": "label:\"技能\",items:"
+    },
+    {
+      "old": "label:\"Subagents\",items:",
+      "new": "label:\"子智能体\",items:"
+    },
+    {
+      "old": "label:\"Rules\",items:",
+      "new": "label:\"规则\",items:"
+    },
+    {
+      "old": "label:\"Commands\",items:",
+      "new": "label:\"命令\",items:"
+    },
+    {
+      "old": "label:\"Hooks\",items:",
+      "new": "label:\"钩子\",items:"
+    },
+    {
+      "old": "children:\"Browse Marketplace\"",
+      "new": "children:\"浏览市场\""
+    },
+    {
+      "old": "\"aria-label\":\"Browse Marketplace\"",
+      "new": "\"aria-label\":\"浏览市场\""
+    },
+    {
+      "old": "children:\"Documentation\"",
+      "new": "children:\"文档\""
+    },
+    {
+      "old": "children:\"Dismiss\"",
+      "new": "children:\"忽略\""
+    },
+    {
+      "old": "\"Search Plugins, Skills, MCPs...\"",
+      "new": "\"搜索插件、技能、MCP...\""
+    },
+    {
+      "old": "ariaLabel:\"Open Customize\"",
+      "new": "ariaLabel:\"打开自定义\""
+    },
+    {
+      "old": "children:[\"Open Customize\"",
+      "new": "children:[\"打开自定义\""
+    },
+    {
+      "old": "title:\"Extend Cursor with Plugins\"",
+      "new": "title:\"用插件扩展 Cursor\""
+    },
+    {
+      "old": "description:\"Plugins bundle rules, skills, subagents, commands, MCP servers, and hooks into one installable package.\"",
+      "new": "description:\"插件将规则、技能、子智能体、命令、MCP 服务器和钩子打包成一个可安装的扩展包。\""
+    },
+    {
+      "old": "label:\"Cursor Account\"",
+      "new": "label:\"Cursor 账户\""
+    },
+    {
+      "old": "description:\"Manage your account and billing\"",
+      "new": "description:\"管理你的账户和账单\""
+    },
+    {
+      "old": "label:\"Startup\"",
+      "new": "label:\"启动\""
+    },
+    {
+      "old": "label:\"Tips\"",
+      "new": "label:\"提示\""
+    },
+    {
+      "old": "description:\"Show rotating tips on the empty screen\"",
+      "new": "description:\"在空白屏幕显示轮换提示\""
+    },
+    {
+      "old": "label:\"Window Restoration\"",
+      "new": "label:\"窗口恢复\""
+    },
+    {
+      "old": "description:\"Controls which windows Cursor restores on startup\"",
+      "new": "description:\"控制 Cursor 启动时恢复哪些窗口\""
+    },
+    {
+      "old": "label:\"Continue Interrupted Agents\"",
+      "new": "label:\"继续被中断的智能体\""
+    },
+    {
+      "old": "description:\"Automatically resume working on agents and their subagents after a reload or restart\"",
+      "new": "description:\"重新加载或重启后自动恢复智能体及其子智能体的工作\""
+    },
+    {
+      "old": "label:\"Notifications\"",
+      "new": "label:\"通知\""
+    },
+    {
+      "old": "label:\"System Notifications\"",
+      "new": "label:\"系统通知\""
+    },
+    {
+      "old": "description:\"Show system notifications when Agent completes or needs attention\"",
+      "new": "description:\"智能体完成或需要关注时显示系统通知\""
+    },
+    {
+      "old": "label:\"Warning Notifications\"",
+      "new": "label:\"警告通知\""
+    },
+    {
+      "old": "description:\"Show notifications for less urgent issues\"",
+      "new": "description:\"对不太紧急的问题显示通知\""
+    },
+    {
+      "old": "new yl(\"undo\",\"Undo\"",
+      "new": "new yl(\"undo\",\"撤销\""
+    },
+    {
+      "old": "new yl(\"redo\",\"Redo\"",
+      "new": "new yl(\"redo\",\"重做\""
+    },
+    {
+      "old": "new yl(\"cut\",\"Cut\"",
+      "new": "new yl(\"cut\",\"剪切\""
+    },
+    {
+      "old": "new yl(\"copy\",\"Copy\"",
+      "new": "new yl(\"copy\",\"复制\""
+    },
+    {
+      "old": "new yl(\"paste\",\"Paste\"",
+      "new": "new yl(\"paste\",\"粘贴\""
+    },
+    {
+      "old": "new yl(\"selectAll\",\"Select All\"",
+      "new": "new yl(\"selectAll\",\"全选\""
+    },
+    {
+      "old": "docs:\"Docs\",contact:\"Contact\"",
+      "new": "docs:\"文档\",contact:\"联系\""
+    },
+    {
+      "old": "iconName:\"arrow-left\",label:\"Back\"",
+      "new": "iconName:\"arrow-left\",label:\"返回\""
+    },
+    {
+      "old": "var I3u=\"Search Settings\"",
+      "new": "var I3u=\"搜索设置\""
+    },
+    {
+      "old": "title:\"Appearance\",children:",
+      "new": "title:\"外观\",children:"
+    },
+    {
+      "old": "label:\"Appearance\"",
+      "new": "label:\"外观\""
+    },
+    {
+      "old": "label:\"Theme\"",
+      "new": "label:\"主题\""
+    },
+    {
+      "old": "accessibleLabel:\"Theme\"",
+      "new": "accessibleLabel:\"主题\""
+    },
+    {
+      "old": "\"Choose between light, dark, or high contrast themes\"",
+      "new": "\"在浅色、深色或高对比度主题之间选择\""
+    },
+    {
+      "old": "{value:\"system\",label:\"System\"}",
+      "new": "{value:\"system\",label:\"系统\"}"
+    },
+    {
+      "old": "{value:\"workspace\",label:\"Workspace\"}",
+      "new": "{value:\"workspace\",label:\"工作区\"}"
+    },
+    {
+      "old": "{icon:\"color-mode\",label:\"System\"}",
+      "new": "{icon:\"color-mode\",label:\"跟随系统\"}"
+    },
+    {
+      "old": "label:\"Agent Conversations\"",
+      "new": "label:\"智能体对话\""
+    },
+    {
+      "old": "title:\"Agent Conversations\"",
+      "new": "title:\"智能体对话\""
+    },
+    {
+      "old": "accessibleLabel:\"Agent Conversations\"",
+      "new": "accessibleLabel:\"智能体对话\""
+    },
+    {
+      "old": "\"Adjust how much detail is shown for tool calls\"",
+      "new": "\"调整工具调用显示多少细节\""
+    },
+    {
+      "old": "label:\"Tool Call Density\"",
+      "new": "label:\"工具调用密度\""
+    },
+    {
+      "old": "\"Set the maximum width of Agent conversations\"",
+      "new": "\"设置智能体对话的最大宽度\""
+    },
+    {
+      "old": "label:\"Chat Width\"",
+      "new": "label:\"聊天宽度\""
+    },
+    {
+      "old": "\"Wrap long lines in Agent conversation code blocks\"",
+      "new": "\"在智能体对话代码块中自动换行\""
+    },
+    {
+      "old": "label:\"Code Block Word Wrap\"",
+      "new": "label:\"代码块自动换行\""
+    },
+    {
+      "old": "\"Use themed background colors for inline code diffs\"",
+      "new": "\"内联代码差异使用主题背景色\""
+    },
+    {
+      "old": "label:\"Themed Diff Backgrounds\"",
+      "new": "label:\"主题化差异背景\""
+    },
+    {
+      "old": "label:\"Colors\"",
+      "new": "label:\"颜色\""
+    },
+    {
+      "old": "\"Window Colors\"",
+      "new": "\"窗口颜色\""
+    },
+    {
+      "old": "\"Choose a tint color\"",
+      "new": "\"选择色调颜色\""
+    },
+    {
+      "old": "label:\"Hue\"",
+      "new": "label:\"色调\""
+    },
+    {
+      "old": "\"Control how strongly the tint is applied\"",
+      "new": "\"控制色调应用强度\""
+    },
+    {
+      "old": "label:\"Intensity\"",
+      "new": "label:\"强度\""
+    },
+    {
+      "old": "label:\"Compact\"",
+      "new": "label:\"紧凑\""
+    },
+    {
+      "old": "label:\"Balanced\"",
+      "new": "label:\"均衡\""
+    },
+    {
+      "old": "label:\"Detailed\"",
+      "new": "label:\"详细\""
+    },
+    {
+      "old": "children:\"Compact\"",
+      "new": "children:\"紧凑\""
+    },
+    {
+      "old": "children:\"Detailed\"",
+      "new": "children:\"详细\""
+    },
+    {
+      "old": "children:\"Narrow\"",
+      "new": "children:\"窄\""
+    },
+    {
+      "old": "children:\"Wide\"",
+      "new": "children:\"宽\""
+    },
+    {
+      "old": "ariaLabel:\"Compact grouped tool calls\",label:\"Compact\"",
+      "new": "ariaLabel:\"紧凑分组工具调用\",label:\"紧凑\""
+    },
+    {
+      "old": "label:\"Sign In\"",
+      "new": "label:\"登录\""
+    },
+    {
+      "old": "description:\"Sign in to get started with Cursor's AI features\"",
+      "new": "description:\"登录以开始使用 Cursor 的 AI 功能\""
+    },
+    {
+      "old": "label:\"Preferences\"",
+      "new": "label:\"偏好设置\""
+    },
+    {
+      "old": "label:\"Editor Settings\"",
+      "new": "label:\"编辑器设置\""
+    },
+    {
+      "old": "description:\"Configure font, formatting, minimap and more\"",
+      "new": "description:\"配置字体、格式、缩略图等\""
+    },
+    {
+      "old": "label:\"Keyboard Shortcuts\"",
+      "new": "label:\"键盘快捷键\""
+    },
+    {
+      "old": "description:\"Configure keyboard shortcuts\"",
+      "new": "description:\"配置键盘快捷键\""
+    },
+    {
+      "old": "label:\"Import Settings from VS Code\"",
+      "new": "label:\"从 VS Code 导入设置\""
+    },
+    {
+      "old": "description:\"Import settings, extensions, and keybindings from VS Code\"",
+      "new": "description:\"从 VS Code 导入设置、扩展和按键绑定\""
+    },
+    {
+      "old": "description:\"See warnings and tips that you\\u2019ve hidden\"",
+      "new": "description:\"查看你已隐藏的警告和提示\""
+    },
+    {
+      "old": "label:\"Layout\"",
+      "new": "label:\"布局\""
+    },
+    {
+      "old": "label:\"Conversation Density\"",
+      "new": "label:\"对话密度\""
+    },
+    {
+      "old": "description:\"Choose how much detail Agent tool calls show in the conversation\"",
+      "new": "description:\"选择智能体工具调用在对话中显示的详细程度\""
+    },
+    {
+      "old": "label:\"Status Bar\"",
+      "new": "label:\"状态栏\""
+    },
+    {
+      "old": "label:\"Review Control Location\"",
+      "new": "label:\"审阅控件位置\""
+    },
+    {
+      "old": "label:\"Auto-Hide Editor When Empty\"",
+      "new": "label:\"编辑器为空时自动隐藏\""
+    },
+    {
+      "old": "label:\"Open Chat as Editor Tabs\"",
+      "new": "label:\"以编辑器标签页打开聊天\""
+    },
+    {
+      "old": "label:\"Menu Bar Icon\"",
+      "new": "label:\"菜单栏图标\""
+    },
+    {
+      "old": "description:\"Show Cursor in the menu bar\"",
+      "new": "description:\"在菜单栏中显示 Cursor\""
+    },
+    {
+      "old": "label:\"System Tray Icon\"",
+      "new": "label:\"系统托盘图标\""
+    },
+    {
+      "old": "description:\"Show Cursor in the system tray\"",
+      "new": "description:\"在系统托盘中显示 Cursor\""
+    },
+    {
+      "old": "label:\"Completion Sound\"",
+      "new": "label:\"完成提示音\""
+    },
+    {
+      "old": "description:\"Play a sound when Agent finishes responding\"",
+      "new": "description:\"智能体回复完成时播放提示音\""
+    },
+    {
+      "old": "label:\"Verify Extension Signatures\"",
+      "new": "label:\"验证扩展签名\""
+    },
+    {
+      "old": "label:\"Follow System Color Scheme\"",
+      "new": "label:\"跟随系统配色\""
+    },
+    {
+      "old": "description:\"Match the active theme to your OS dark/light setting\"",
+      "new": "description:\"将当前主题与操作系统的深色/浅色设置匹配\""
+    },
+    {
+      "old": "description:\"Choose which theme to use\"",
+      "new": "description:\"选择要使用的主题\""
+    },
+    {
+      "old": "label:\"Light Theme\"",
+      "new": "label:\"浅色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in light mode\"",
+      "new": "description:\"选择系统处于浅色模式时使用的主题\""
+    },
+    {
+      "old": "label:\"Dark Theme\"",
+      "new": "label:\"深色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in dark mode\"",
+      "new": "description:\"选择系统处于深色模式时使用的主题\""
+    },
+    {
+      "old": "label:\"Follow System High Contrast\"",
+      "new": "label:\"跟随系统高对比度\""
+    },
+    {
+      "old": "description:\"Switch to a high contrast theme when your OS is in a high contrast mode\"",
+      "new": "description:\"当操作系统处于高对比度模式时切换到高对比度主题\""
+    },
+    {
+      "old": "label:\"High Contrast Light Theme\"",
+      "new": "label:\"高对比度浅色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in light high contrast mode\"",
+      "new": "description:\"选择系统处于浅色高对比度模式时使用的主题\""
+    },
+    {
+      "old": "label:\"High Contrast Dark Theme\"",
+      "new": "label:\"高对比度深色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in dark high contrast mode\"",
+      "new": "description:\"选择系统处于深色高对比度模式时使用的主题\""
+    },
+    {
+      "old": "label:\"Manage Themes\"",
+      "new": "label:\"管理主题\""
+    },
+    {
+      "old": "description:\"Create your own themes, tweak the vibe, and import your favorites\"",
+      "new": "description:\"创建自己的主题、调整风格并导入常用主题\""
+    },
+    {
+      "old": "label:\"Reduce Transparency\"",
+      "new": "label:\"减少透明度\""
+    },
+    {
+      "old": "description:\"Replace translucent surfaces with opaque backgrounds\"",
+      "new": "description:\"用不透明背景替换半透明表面\""
+    },
+    {
+      "old": "label:\"Typography\"",
+      "new": "label:\"字体排版\""
+    },
+    {
+      "old": "label:\"UI Font Size\"",
+      "new": "label:\"界面字体大小\""
+    },
+    {
+      "old": "description:\"Font size for the Cursor user interface\"",
+      "new": "description:\"Cursor 用户界面的字体大小\""
+    },
+    {
+      "old": "label:\"Code Font Size\"",
+      "new": "label:\"代码字体大小\""
+    },
+    {
+      "old": "description:\"Font size for code editors and diffs\"",
+      "new": "description:\"代码编辑器和差异视图的字体大小\""
+    },
+    {
+      "old": "label:\"UI Font Family\"",
+      "new": "label:\"界面字体\""
+    },
+    {
+      "old": "description:\"Override the Cursor user interface typeface\"",
+      "new": "description:\"覆盖 Cursor 用户界面的字体\""
+    },
+    {
+      "old": "label:\"Code Font Family\"",
+      "new": "label:\"代码字体\""
+    },
+    {
+      "old": "description:\"Override the font for code editors and diffs\"",
+      "new": "description:\"覆盖代码编辑器和差异视图的字体\""
+    },
+    {
+      "old": "label:\"Font Smoothing\"",
+      "new": "label:\"字体平滑\""
+    },
+    {
+      "old": "description:\"Use native macOS font anti-aliasing\"",
+      "new": "description:\"使用 macOS 原生字体抗锯齿\""
+    },
+    {
+      "old": "label:\"Motion\"",
+      "new": "label:\"动画\""
+    },
+    {
+      "old": "label:\"Reduce Motion\"",
+      "new": "label:\"减少动画\""
+    },
+    {
+      "old": "description:\"Minimize interface animations\"",
+      "new": "description:\"减少界面动画\""
+    },
+    {
+      "old": "label:\"Fun\"",
+      "new": "label:\"趣味\""
+    },
+    {
+      "old": "label:\"Give the Agent a Confetti Cannon\"",
+      "new": "label:\"给智能体配一个彩带炮\""
+    },
+    {
+      "old": "description:\"Allow the agent to celebrate with a shower of confetti\"",
+      "new": "description:\"允许智能体用彩带雨庆祝\""
+    },
+    {
+      "old": "label:\"Privacy\"",
+      "new": "label:\"隐私\""
+    },
+    {
+      "old": "label:\"Hide Email Address\"",
+      "new": "label:\"隐藏邮箱地址\""
+    },
+    {
+      "old": "description:\"Partially mask your email address in the Cursor user interface\"",
+      "new": "description:\"在 Cursor 用户界面中部分遮盖你的邮箱地址\""
+    },
+    {
+      "old": "label:\"Monthly Limit\"",
+      "new": "label:\"月度限额\""
+    },
+    {
+      "old": "description:\"Set a fixed amount or make on-demand usage unlimited\"",
+      "new": "description:\"设置固定额度，或让按需使用不受限制\""
+    },
+    {
+      "old": "label:\"Cursor Tab\"",
+      "new": "label:\"Cursor Tab\""
+    },
+    {
+      "old": "description:\"Context-aware, multi-line suggestions around your cursor based on recent edits\"",
+      "new": "description:\"根据最近编辑内容，在光标处提供上下文相关的多行建议\""
+    },
+    {
+      "old": "label:\"Conversation\"",
+      "new": "label:\"对话\""
+    },
+    {
+      "old": "label:\"Usage Summary\"",
+      "new": "label:\"用量摘要\""
+    },
+    {
+      "old": "description:\"When to show the usage summary at the bottom of the chat pane\"",
+      "new": "description:\"在聊天面板底部显示用量摘要的时机\""
+    },
+    {
+      "old": "label:\"Text Size\"",
+      "new": "label:\"文字大小\""
+    },
+    {
+      "old": "description:\"Adjust the conversation text size\"",
+      "new": "description:\"调整对话文字大小\""
+    },
+    {
+      "old": "label:\"Default Environment\"",
+      "new": "label:\"默认环境\""
+    },
+    {
+      "old": "description:\"Where new agents start by default\"",
+      "new": "description:\"新智能体默认启动的环境\""
+    },
+    {
+      "old": "label:\"Queue Messages\"",
+      "new": "label:\"消息排队\""
+    },
+    {
+      "old": "description:\"Adjust the default behavior of sending a message while Agent is running\"",
+      "new": "description:\"调整智能体运行期间发送消息的默认行为\""
+    },
+    {
+      "old": "label:\"New Messages\"",
+      "new": "label:\"新消息\""
+    },
+    {
+      "old": "description:\"What sending a message while Agent is running does\"",
+      "new": "description:\"智能体运行期间发送消息时的行为\""
+    },
+    {
+      "old": "label:\"Manually Sent Messages from Queue\"",
+      "new": "label:\"从队列手动发送消息\""
+    },
+    {
+      "old": "description:\"What the queued-message Send Now action does\"",
+      "new": "description:\"队列中消息“立即发送”操作的行为\""
+    },
+    {
+      "old": "label:\"Agent Autocomplete\"",
+      "new": "label:\"智能体自动补全\""
+    },
+    {
+      "old": "description:\"Contextual suggestions while prompting Agent\"",
+      "new": "description:\"向智能体输入提示时的上下文建议\""
+    },
+    {
+      "old": "label:\"Auto-Approve Mode Transitions\"",
+      "new": "label:\"自动批准模式切换\""
+    },
+    {
+      "old": "description:\"Allow agent to switch to modes without asking. When off, skips if unanswered within 15 seconds.\"",
+      "new": "description:\"允许智能体无需询问即可切换模式。关闭时，15 秒内未答复则跳过。\""
+    },
+    {
+      "old": "label:\"Voice Submit Keywords\"",
+      "new": "label:\"语音提交关键词\""
+    },
+    {
+      "old": "description:\"Default voice for voice chats\"",
+      "new": "description:\"语音聊天使用的默认声音\""
+    },
+    {
+      "old": "label:\"Speed\"",
+      "new": "label:\"语速\""
+    },
+    {
+      "old": "description:\"How quickly the voice speaks in voice chats\"",
+      "new": "description:\"语音聊天中声音的说话速度\""
+    },
+    {
+      "old": "label:\"Language\"",
+      "new": "label:\"语言\""
+    },
+    {
+      "old": "description:\"Language used in voice chats\"",
+      "new": "description:\"语音聊天使用的语言\""
+    },
+    {
+      "old": "label:\"Submit Keywords\"",
+      "new": "label:\"提交关键词\""
+    },
+    {
+      "old": "description:\"Words that send your prompt while you dictate\"",
+      "new": "description:\"听写时用于发送提示词的关键词\""
+    },
+    {
+      "old": "label:\"Context and Tools\"",
+      "new": "label:\"上下文与工具\""
+    },
+    {
+      "old": "label:\"Web Search Tool\"",
+      "new": "label:\"联网搜索工具\""
+    },
+    {
+      "old": "description:\"Allow Agent to search the web for relevant information\"",
+      "new": "description:\"允许智能体联网搜索相关信息\""
+    },
+    {
+      "old": "label:\"Web Fetch Tool\"",
+      "new": "label:\"网页抓取工具\""
+    },
+    {
+      "old": "description:\"Allow Agent to fetch content from URLs\"",
+      "new": "description:\"允许智能体从 URL 抓取内容\""
+    },
+    {
+      "old": "label:\"Wait for MCP Authentication\"",
+      "new": "label:\"等待 MCP 认证\""
+    },
+    {
+      "old": "description:\"Wait indefinitely; otherwise skip prompts after 30 seconds\"",
+      "new": "description:\"无限期等待；否则在 30 秒后跳过提示\""
+    },
+    {
+      "old": "label:\"Execution and Approvals\"",
+      "new": "label:\"执行与批准\""
+    },
+    {
+      "old": "label:\"Run Mode\"",
+      "new": "label:\"运行模式\""
+    },
+    {
+      "old": "label:\"Read Access\"",
+      "new": "label:\"读取权限\""
+    },
+    {
+      "old": "description:\"Control whether agents can read files outside the workspace without approval.\"",
+      "new": "description:\"控制智能体是否可以在未经批准的情况下读取工作区之外的文件。\""
+    },
+    {
+      "old": "label:\"Read Allowlist\"",
+      "new": "label:\"读取白名单\""
+    },
+    {
+      "old": "description:\"File paths and glob patterns agents can read without approval.\"",
+      "new": "description:\"智能体无需批准即可读取的文件路径和通配符模式。\""
+    },
+    {
+      "old": "label:\"Terminal and Editing\"",
+      "new": "label:\"终端与编辑\""
+    },
+    {
+      "old": "label:\"Legacy Terminal Tool\"",
+      "new": "label:\"旧版终端工具\""
+    },
+    {
+      "old": "description:\"Use legacy terminal tool on unsupported shells\"",
+      "new": "description:\"在不支持的 shell 上使用旧版终端工具\""
+    },
+    {
+      "old": "label:\"LSP\"",
+      "new": "label:\"LSP\""
+    },
+    {
+      "old": "label:\"Enable LSPs\"",
+      "new": "label:\"启用 LSP\""
+    },
+    {
+      "old": "description:\"Enable language server by default to provide code intelligence in workspaces\"",
+      "new": "description:\"默认启用语言服务器，在工作区中提供代码智能\""
+    },
+    {
+      "old": "label:\"Enable LSPs for Worktrees\"",
+      "new": "label:\"为工作树启用 LSP\""
+    },
+    {
+      "old": "description:\"Enable language server by default to provide code intelligence in agent worktree workspaces\"",
+      "new": "description:\"默认启用语言服务器，在智能体工作树工作区中提供代码智能\""
+    },
+    {
+      "old": "label:\"Maximum Local LSP Workspaces\"",
+      "new": "label:\"本地 LSP 工作区上限\""
+    },
+    {
+      "old": "description:\"Maximum local workspaces that can run language servers at the same time\"",
+      "new": "description:\"可同时运行语言服务器的本地工作区数量上限\""
+    },
+    {
+      "old": "label:\"Maximum Remote LSP Workspaces\"",
+      "new": "label:\"远程 LSP 工作区上限\""
+    },
+    {
+      "old": "description:\"Maximum remote workspaces that can run language servers at the same time\"",
+      "new": "description:\"可同时运行语言服务器的远程工作区数量上限\""
+    },
+    {
+      "old": "label:\"Inline Diffs\"",
+      "new": "label:\"内联差异\""
+    },
+    {
+      "old": "description:\"Show inline diff decorations in the editor\"",
+      "new": "description:\"在编辑器中显示内联差异标记\""
+    },
+    {
+      "old": "label:\"Auto Format on Agent Finish\"",
+      "new": "label:\"智能体完成时自动格式化\""
+    },
+    {
+      "old": "description:\"Automatically format files when Agent finishes\"",
+      "new": "description:\"智能体完成时自动格式化文件\""
+    },
+    {
+      "old": "label:\"Sync Skills for Cloud Agents\"",
+      "new": "label:\"为云端智能体同步技能\""
+    },
+    {
+      "old": "description:\"Cursor syncs your local skills so they can be used with Cloud Agents\"",
+      "new": "description:\"Cursor 同步你的本地技能，以便云端智能体使用\""
+    },
+    {
+      "old": "label:\"Toolbar on Selection\"",
+      "new": "label:\"选中时显示工具栏\""
+    },
+    {
+      "old": "description:\"Show the Add to Chat button\"",
+      "new": "description:\"显示“添加到聊天”按钮\""
+    },
+    {
+      "old": "label:\"Terminal Hint\"",
+      "new": "label:\"终端提示\""
+    },
+    {
+      "old": "description:\"Show the Open worktree link in Terminal\"",
+      "new": "description:\"在终端中显示“打开工作树”链接\""
+    },
+    {
+      "old": "label:\"Task Models\"",
+      "new": "label:\"任务模型\""
+    },
+    {
+      "old": "label:\"Explore Subagent Model\"",
+      "new": "label:\"探索子智能体模型\""
+    },
+    {
+      "old": "description:\"Choose the model used by Explore subagent for initial research\"",
+      "new": "description:\"选择探索子智能体用于初始调研的模型\""
+    },
+    {
+      "old": "label:\"Gateway\"",
+      "new": "label:\"网关\""
+    },
+    {
+      "old": "description:\"Configure the local agent LLM gateway\"",
+      "new": "description:\"配置本地智能体 LLM 网关\""
+    },
+    {
+      "old": "label:\"Pull Requests\"",
+      "new": "label:\"拉取请求\""
+    },
+    {
+      "old": "label:\"Review Provider\"",
+      "new": "label:\"审阅提供方\""
+    },
+    {
+      "old": "label:\"PR Link Destination\"",
+      "new": "label:\"PR 链接打开位置\""
+    },
+    {
+      "old": "description:\"Open pull request links inside Cursor or the default browser\"",
+      "new": "description:\"在 Cursor 内或默认浏览器中打开拉取请求链接\""
+    },
+    {
+      "old": "label:\"Attribution\"",
+      "new": "label:\"归属\""
+    },
+    {
+      "old": "label:\"Commit Attribution\"",
+      "new": "label:\"提交归属\""
+    },
+    {
+      "old": "label:\"PR Attribution\"",
+      "new": "label:\"PR 归属\""
+    },
+    {
+      "old": "label:\"Branches\"",
+      "new": "label:\"分支\""
+    },
+    {
+      "old": "label:\"Branch Prefix\"",
+      "new": "label:\"分支前缀\""
+    },
+    {
+      "old": "description:\"Prefix for new Agent branches\"",
+      "new": "description:\"新智能体分支的前缀\""
+    },
+    {
+      "old": "label:\"Worktree Cleanup\"",
+      "new": "label:\"工作树清理\""
+    },
+    {
+      "old": "description:\"Cursor periodically removes old worktrees to free disk space\"",
+      "new": "description:\"Cursor 定期清理旧工作树以释放磁盘空间\""
+    },
+    {
+      "old": "label:\"Max Worktrees\"",
+      "new": "label:\"最大工作树数\""
+    },
+    {
+      "old": "description:\"Maximum retained Cursor-managed worktrees\"",
+      "new": "description:\"保留的 Cursor 管理工作树数量上限\""
+    },
+    {
+      "old": "label:\"Max Total Size (GB)\"",
+      "new": "label:\"最大总大小 (GB)\""
+    },
+    {
+      "old": "description:\"Maximum aggregate worktree size\"",
+      "new": "description:\"工作树总大小上限\""
+    },
+    {
+      "old": "label:\"Cursor-Managed Worktrees\"",
+      "new": "label:\"Cursor 管理工作树\""
+    },
+    {
+      "old": "label:\"Include Third-Party Plugins, Skills, and Other Configs\"",
+      "new": "label:\"包含第三方插件、技能和其他配置\""
+    },
+    {
+      "old": "description:\"Automatically import agent configs from other tools\"",
+      "new": "description:\"自动导入来自其他工具的智能体配置\""
+    },
+    {
+      "old": "label:\"Import Claude Code Conversations\"",
+      "new": "label:\"导入 Claude Code 对话\""
+    },
+    {
+      "old": "description:\"Sync chats and continue them in Cursor\"",
+      "new": "description:\"同步聊天并在 Cursor 中继续\""
+    },
+    {
+      "old": "label:\"Codebase\"",
+      "new": "label:\"代码库\""
+    },
+    {
+      "old": "label:\"Ignore Files in .cursorignore\"",
+      "new": "label:\"忽略 .cursorignore 中的文件\""
+    },
+    {
+      "old": "description:\"Files to exclude from indexing in addition to .gitignore\"",
+      "new": "description:\"除 .gitignore 外，还需从索引中排除的文件\""
+    },
+    {
+      "old": "label:\"Ignore Files\"",
+      "new": "label:\"忽略文件\""
+    },
+    {
+      "old": "label:\"Hierarchical Cursor Ignore\"",
+      "new": "label:\"分层 Cursor 忽略\""
+    },
+    {
+      "old": "description:\"Apply .cursorignore files to subdirectories\"",
+      "new": "description:\"将 .cursorignore 文件应用于子目录\""
+    },
+    {
+      "old": "label:\"Ignore Symlinks in Cursor Ignore Search\"",
+      "new": "label:\"忽略 Cursor 忽略搜索中的符号链接\""
+    },
+    {
+      "old": "description:\"Skip symlinks during discovery\"",
+      "new": "description:\"在发现过程中跳过符号链接\""
+    },
+    {
+      "old": "label:\"HTTP Compatibility Mode\"",
+      "new": "label:\"HTTP 兼容模式\""
+    },
+    {
+      "old": "description:\"Configure HTTP compatibility for proxies and VPNs\"",
+      "new": "description:\"为代理和 VPN 配置 HTTP 兼容性\""
+    },
+    {
+      "old": "label:\"Required Domains\"",
+      "new": "label:\"必需域名\""
+    },
+    {
+      "old": "description:\"Domains required for Cursor\"",
+      "new": "description:\"Cursor 运行所需的域名\""
+    },
+    {
+      "old": "label:\"Network Diagnostics\"",
+      "new": "label:\"网络诊断\""
+    },
+    {
+      "old": "description:\"Check connectivity to all Cursor services\"",
+      "new": "description:\"检查与所有 Cursor 服务的连接\""
+    },
+    {
+      "old": "label:\"Update Access\"",
+      "new": "label:\"更新权限\""
+    },
+    {
+      "old": "label:\"Dedicated Agent Runtime\"",
+      "new": "label:\"专用智能体运行时\""
+    },
+    {
+      "old": "description:\"Run Private Inference in a separate local process to isolate it from remote workspace activity. Reload Cursor after changing this setting.\"",
+      "new": "description:\"在独立的本地进程中运行私有推理，使其与远程工作区活动隔离。更改此设置后请重新加载 Cursor。\""
+    },
+    {
+      "old": "label:\"Tracing\"",
+      "new": "label:\"追踪\""
+    },
+    {
+      "old": "label:\"Local Trace Mode\"",
+      "new": "label:\"本地追踪模式\""
+    },
+    {
+      "old": "label:\"Continuous RPC File Recording\"",
+      "new": "label:\"持续 RPC 文件录制\""
+    }
+  ],
+  "xai": [
+    {
+      "old": "\"Extra usage credits\":\"Additional usage credits\"",
+      "new": "\"Extra usage credits\":\"额外用量积分\""
+    },
+    {
+      "old": "\"Monthly usage\":\"Monthly additional usage\"",
+      "new": "\"Monthly usage\":\"月度额外用量\""
+    },
+    {
+      "old": "\"Monthly spend limit\":\"Monthly additional usage limit\"",
+      "new": "\"Monthly spend limit\":\"月度额外用量上限\""
+    },
+    {
+      "old": "\"Buy Credits\":\"Buy credits\"",
+      "new": "\"Buy Credits\":\"购买积分\""
+    },
+    {
+      "old": "\"Set Auto Top-Up\":\"Set auto top-up\"",
+      "new": "\"Set Auto Top-Up\":\"设置自动充值\""
+    },
+    {
+      "old": "\"Edit monthly spend limit\":\"Edit monthly additional usage limit\"",
+      "new": "\"Edit monthly spend limit\":\"编辑月度额外用量上限\""
+    },
+    {
+      "old": "\"Monthly spend limit reached. Increase your limit to continue working.\":\"Monthly additional usage limit reached. Increase your limit to continue working.\"",
+      "new": "\"Monthly spend limit reached. Increase your limit to continue working.\":\"月度额外用量上限已达，提高上限后可继续使用。\""
+    },
+    {
+      "old": "\"Set a monthly limit for usage credits\":\"A monthly spend limit for your additional usage.\"",
+      "new": "\"Set a monthly limit for usage credits\":\"你的额外用量的月度支出上限。\""
+    },
+    {
+      "old": "label:i(\"Monthly usage\")",
+      "new": "label:i(\"月度额外用量\")"
+    },
+    {
+      "old": "hint:i(\"Edit monthly spend limit\")",
+      "new": "hint:i(\"编辑月度额外用量上限\")"
+    },
+    {
+      "old": "children:t(\"Not set\")",
+      "new": "children:t(\"未设置\")"
+    },
+    {
+      "old": "children:i(\"Edit\")",
+      "new": "children:i(\"编辑\")"
+    },
+    {
+      "old": "i(\"Extra usage credits\")",
+      "new": "i(\"额外用量积分\")"
+    },
+    {
+      "old": "i(\"Monthly spend limit\")",
+      "new": "i(\"月度额外用量上限\")"
+    },
+    {
+      "old": "i(\"Buy Credits\")",
+      "new": "i(\"购买积分\")"
+    },
+    {
+      "old": "i(\"Set Auto Top-Up\")",
+      "new": "i(\"设置自动充值\")"
+    },
+    {
+      "old": "\"Credits expire after two years\"",
+      "new": "\"积分两年后过期\""
+    },
+    {
+      "old": "i(\"Purchase Credits\")",
+      "new": "i(\"购买积分\")"
+    },
+    {
+      "old": "i(\"Auto top-up when balance is low\")",
+      "new": "i(\"余额不足时自动充值\")"
+    },
+    {
+      "old": "<balance>{balance}</balance> remaining",
+      "new": "<balance>{balance}</balance> 剩余"
+    }
+  ],
+  "desktop": [
+    {
+      "old": "\"<div>New project\"",
+      "new": "\"<div>新建项目\""
+    },
+    {
+      "old": "\"<div>Open project\"",
+      "new": "\"<div>打开项目\""
+    },
+    {
+      "old": "\"<div>Clone repo\"",
+      "new": "\"<div>克隆仓库\""
+    },
+    {
+      "old": "\"<div>Connect via SSH\"",
+      "new": "\"<div>通过 SSH 连接\""
+    },
+    {
+      "old": "\"<div>New Window\"",
+      "new": "\"<div>新建窗口\""
+    },
+    {
+      "old": "\"<div>Steer from iOS\"",
+      "new": "\"<div>用 iOS 遥控\""
+    },
+    {
+      "old": "<span>Recent projects</span>",
+      "new": "<span>最近项目</span>"
+    },
+    {
+      "old": ">View all (",
+      "new": ">查看全部 ("
+    },
+    {
+      "old": "translate-x-[34px]\">Sign in",
+      "new": "translate-x-[34px]\">登录"
+    },
+    {
+      "old": "opacity-80\">Upgrade'",
+      "new": "opacity-80\">升级'"
+    },
+    {
+      "old": "\">Loading...'",
+      "new": "\">加载中...'"
+    },
+    {
+      "old": "action:\"Thinking\"",
+      "new": "action:\"思考\""
+    },
+    {
+      "old": "children:\"Current Plan\"",
+      "new": "children:\"当前计划\""
+    },
+    {
+      "old": "children:\"Upgrade Available\"",
+      "new": "children:\"可升级\""
+    },
+    {
+      "old": "children:\"Adjust Plan\"",
+      "new": "children:\"调整计划\""
+    },
+    {
+      "old": "Included usage with your subscription.${e?` Resets ${x2a(e)}.`:\"\"}${t?\" Used before your credits.\":\"\"}",
+      "new": "订阅包含的用量。${e?` 于 ${x2a(e)} 重置。`:\"\"}${t?\" 在你的积分之前使用。\":\"\"}"
+    },
+    {
+      "old": "Weekly usage resets on ${x2a(n)} (${l6f(n,t)})",
+      "new": "每周用量于 ${x2a(n)} 重置（剩余 ${l6f(n,t)}）"
+    },
+    {
+      "old": "Your usage resets on ${t} (${i} ${i===1?\"day\":\"days\"}).",
+      "new": "您的用量于 ${t} 重置（剩余 ${i} 天）。"
+    },
+    {
+      "old": "Your usage resets on ${t}.",
+      "new": "您的用量于 ${t} 重置。"
+    },
+    {
+      "old": "return`${a} day${a===1?\"\":\"s\"} left`",
+      "new": "return`剩余 ${a} 天`"
+    },
+    {
+      "old": "MPf(e){return`${di0(e)}% used`}",
+      "new": "MPf(e){return`${di0(e)}% 已用`}"
+    },
+    {
+      "old": "children:[\"Resets \"",
+      "new": "children:[\"重置于 \""
+    },
+    {
+      "old": "vl0(e){return e.startsWith(\"Get \")?e:`Get ${e}`}",
+      "new": "vl0(e){return e.startsWith(\"Get \")?e:`获取 ${e}`}"
+    },
+    {
+      "old": "RZb(e){return e===void 0?\"Get more usage to continue\":\"Get more usage to switch models\"}",
+      "new": "RZb(e){return e===void 0?\"获取更多用量以继续\":\"获取更多用量以切换模型\"}"
+    },
+    {
+      "old": "const p=`Included in ${o}`",
+      "new": "const p=`包含于 ${o}`"
+    },
+    {
+      "old": "const D=`Included in ${v}`",
+      "new": "const D=`包含于 ${v}`"
+    },
+    {
+      "old": "const L=`Included in ${v}`",
+      "new": "const L=`包含于 ${v}`"
+    },
+    {
+      "old": "children:[u,\"% used\"]",
+      "new": "children:[u,\"% 已用\"]"
+    },
+    {
+      "old": "title:\"OpenAI API Key\"",
+      "new": "title:\"OpenAI API 密钥\""
+    },
+    {
+      "old": "label:\"API Key\"",
+      "new": "label:\"API 密钥\""
+    },
+    {
+      "old": "placeholder:\"Enter API key\"",
+      "new": "placeholder:\"输入 API 密钥\""
+    },
+    {
+      "old": "label:\"Override OpenAI Base URL\"",
+      "new": "label:\"覆盖 OpenAI Base URL\""
+    },
+    {
+      "old": "description:\"Change the base URL for OpenAI API requests.\"",
+      "new": "description:\"更改 OpenAI API 请求的 Base URL。\""
+    },
+    {
+      "old": "[\"You can put in\",\" \"",
+      "new": "[\"你可以填入\",\" \""
+    },
+    {
+      "old": "children:\"your Anthropic key\"",
+      "new": "children:\"你的 Anthropic 密钥\""
+    },
+    {
+      "old": "to use Claude at cost. When enabled, this key will be used for all models beginning with \"claude-\".",
+      "new": "以成本价使用 Claude。启用后，此密钥将用于所有以 \"claude-\" 开头的模型。"
+    },
+    {
+      "old": "label:\"Google API Key\"",
+      "new": "label:\"Google API 密钥\""
+    },
+    {
+      "old": "description:\"Configure Azure OpenAI to use OpenAI models through your Azure account.\"",
+      "new": "description:\"配置 Azure OpenAI，通过你的 Azure 账户使用 OpenAI 模型。\""
+    },
+    {
+      "old": "label:\"Use Azure OpenAI\"",
+      "new": "label:\"使用 Azure OpenAI\""
+    },
+    {
+      "old": "label:\"Deployment Name\"",
+      "new": "label:\"部署名称\""
+    },
+    {
+      "old": "placeholder:\"e.g. my-resource.openai.azure.com\"",
+      "new": "placeholder:\"例如：my-resource.openai.azure.com\""
+    },
+    {
+      "old": "placeholder:\"e.g. gpt-35-turbo\"",
+      "new": "placeholder:\"例如：gpt-35-turbo\""
+    },
+    {
+      "old": "title:\"Context and Tools\"",
+      "new": "title:\"上下文与工具\""
+    },
+    {
+      "old": "accessibleLabel:\"Context and Tools\"",
+      "new": "accessibleLabel:\"上下文与工具\""
+    },
+    {
+      "old": "label:\"Partial Accepts\"",
+      "new": "label:\"部分接受\""
+    },
+    {
+      "old": "description:`Accept the next word of a suggestion via ${u}`",
+      "new": "description:`通过 ${u} 接受建议的下一个词`"
+    },
+    {
+      "old": "\"aria-label\":`Partial Accepts keybinding: ${u}`",
+      "new": "\"aria-label\":`部分接受快捷键：${u}`"
+    },
+    {
+      "old": "label:\"Suggestions While Commenting\"",
+      "new": "label:\"注释时给出建议\""
+    },
+    {
+      "old": "description:\"Allow Tab to trigger while in a comment region\"",
+      "new": "description:\"允许在注释区域中通过 Tab 触发\""
+    },
+    {
+      "old": "label:\"Whitespace-Only Suggestions\"",
+      "new": "label:\"仅空白建议\""
+    },
+    {
+      "old": "description:\"Suggest edits like new lines and indentation that modify whitespace only\"",
+      "new": "description:\"仅修改空白内容的编辑建议，例如新行和缩进\""
+    },
+    {
+      "old": "label:\"Imports\",children:",
+      "new": "label:\"导入\",children:"
+    },
+    {
+      "old": "description:`Automatically import necessary modules for ${S}`",
+      "new": "description:`自动导入 ${S} 所需的模块`"
+    },
+    {
+      "old": "label:\"Auto Import for Python\"",
+      "new": "label:\"Python 自动导入\""
+    },
+    {
+      "old": "description:\"Enable auto import for Python. This is a beta feature.\"",
+      "new": "description:\"启用 Python 自动导入。此为测试版功能。\""
+    },
+    {
+      "old": "label:\"Ignored Files\"",
+      "new": "label:\"忽略文件\""
+    },
+    {
+      "old": "ariaLabel:\"Ignored Files\"",
+      "new": "ariaLabel:\"忽略文件\""
+    },
+    {
+      "old": "description:\"Glob patterns for files where Cursor Tab will not suggest\"",
+      "new": "description:\"Cursor Tab 不给出建议的文件的 Glob 模式\""
+    },
+    {
+      "old": "title:\"Codebase\"",
+      "new": "title:\"代码库\""
+    },
+    {
+      "old": "label:\"Index Repositories for Instant Grep\"",
+      "new": "label:\"为即时 Grep 建立仓库索引\""
+    },
+    {
+      "old": "general:\"General\",\"vscode-settings\":\"VS Code Settings\",appearance:\"Appearance\",fun:\"Fun\",\"plan-usage\":\"Plan & Usage\",chat:\"Agents\",browser:\"Browser & Network\",tab:\"Tab\",models:\"Models\",voice:\"Voice\",\"git-prs\":\"Source Control\",rules:\"Rules, Skills, Subagents\",plugins:\"Plugins\",customize:\"Customize\",indexing:\"Code Intelligence\",mcp:\"Tools & MCPs\",hooks:\"Hooks\",beta:\"Beta\",network:\"Network\",\"background-composer\":\"Cloud Agents\",worktrees:\"Worktrees\",developer:\"Developer\"",
+      "new": "general:\"常规\",\"vscode-settings\":\"VS Code 设置\",appearance:\"外观\",fun:\"趣味\",\"plan-usage\":\"计划与用量\",chat:\"智能体\",browser:\"浏览器与网络\",tab:\"标签页\",models:\"模型\",voice:\"语音\",\"git-prs\":\"源代码管理\",rules:\"规则、技能与子智能体\",plugins:\"插件\",customize:\"自定义\",indexing:\"代码智能\",mcp:\"工具与 MCP\",hooks:\"钩子\",beta:\"测试版\",network:\"网络\",\"background-composer\":\"云端智能体\",worktrees:\"工作树\",developer:\"开发者\""
+    },
+    {
+      "old": "id:\"plugins\",label:\"Plugins\"",
+      "new": "id:\"plugins\",label:\"插件\""
+    },
+    {
+      "old": "id:\"mcps\",label:\"MCPs\"",
+      "new": "id:\"mcps\",label:\"MCP\""
+    },
+    {
+      "old": "id:\"skills\",label:\"Skills\"",
+      "new": "id:\"skills\",label:\"技能\""
+    },
+    {
+      "old": "id:\"agents\",label:\"Subagents\"",
+      "new": "id:\"agents\",label:\"子智能体\""
+    },
+    {
+      "old": "id:\"subagents\",label:\"Subagents\"",
+      "new": "id:\"subagents\",label:\"子智能体\""
+    },
+    {
+      "old": "id:\"rules\",label:\"Rules\"",
+      "new": "id:\"rules\",label:\"规则\""
+    },
+    {
+      "old": "id:\"commands\",label:\"Commands\"",
+      "new": "id:\"commands\",label:\"命令\""
+    },
+    {
+      "old": "id:\"hooks\",label:\"Hooks\"",
+      "new": "id:\"hooks\",label:\"钩子\""
+    },
+    {
+      "old": "label:\"MCPs\",items:",
+      "new": "label:\"MCP\",items:"
+    },
+    {
+      "old": "label:\"Skills\",items:",
+      "new": "label:\"技能\",items:"
+    },
+    {
+      "old": "label:\"Subagents\",items:",
+      "new": "label:\"子智能体\",items:"
+    },
+    {
+      "old": "label:\"Rules\",items:",
+      "new": "label:\"规则\",items:"
+    },
+    {
+      "old": "label:\"Commands\",items:",
+      "new": "label:\"命令\",items:"
+    },
+    {
+      "old": "label:\"Hooks\",items:",
+      "new": "label:\"钩子\",items:"
+    },
+    {
+      "old": "children:\"Browse Marketplace\"",
+      "new": "children:\"浏览市场\""
+    },
+    {
+      "old": "\"aria-label\":\"Browse Marketplace\"",
+      "new": "\"aria-label\":\"浏览市场\""
+    },
+    {
+      "old": "children:\"Documentation\"",
+      "new": "children:\"文档\""
+    },
+    {
+      "old": "children:\"Dismiss\"",
+      "new": "children:\"忽略\""
+    },
+    {
+      "old": "\"Search Plugins, Skills, MCPs...\"",
+      "new": "\"搜索插件、技能、MCP...\""
+    },
+    {
+      "old": "ariaLabel:\"Open Customize\"",
+      "new": "ariaLabel:\"打开自定义\""
+    },
+    {
+      "old": "children:[\"Open Customize\"",
+      "new": "children:[\"打开自定义\""
+    },
+    {
+      "old": "title:\"Extend Cursor with Plugins\"",
+      "new": "title:\"用插件扩展 Cursor\""
+    },
+    {
+      "old": "description:\"Plugins bundle rules, skills, subagents, commands, MCP servers, and hooks into one installable package.\"",
+      "new": "description:\"插件将规则、技能、子智能体、命令、MCP 服务器和钩子打包成一个可安装的扩展包。\""
+    },
+    {
+      "old": "label:\"Cursor Account\"",
+      "new": "label:\"Cursor 账户\""
+    },
+    {
+      "old": "description:\"Manage your account and billing\"",
+      "new": "description:\"管理你的账户和账单\""
+    },
+    {
+      "old": "label:\"Startup\"",
+      "new": "label:\"启动\""
+    },
+    {
+      "old": "label:\"Tips\"",
+      "new": "label:\"提示\""
+    },
+    {
+      "old": "description:\"Show rotating tips on the empty screen\"",
+      "new": "description:\"在空白屏幕显示轮换提示\""
+    },
+    {
+      "old": "label:\"Window Restoration\"",
+      "new": "label:\"窗口恢复\""
+    },
+    {
+      "old": "description:\"Controls which windows Cursor restores on startup\"",
+      "new": "description:\"控制 Cursor 启动时恢复哪些窗口\""
+    },
+    {
+      "old": "label:\"Continue Interrupted Agents\"",
+      "new": "label:\"继续被中断的智能体\""
+    },
+    {
+      "old": "description:\"Automatically resume working on agents and their subagents after a reload or restart\"",
+      "new": "description:\"重新加载或重启后自动恢复智能体及其子智能体的工作\""
+    },
+    {
+      "old": "label:\"Notifications\"",
+      "new": "label:\"通知\""
+    },
+    {
+      "old": "label:\"System Notifications\"",
+      "new": "label:\"系统通知\""
+    },
+    {
+      "old": "description:\"Show system notifications when Agent completes or needs attention\"",
+      "new": "description:\"智能体完成或需要关注时显示系统通知\""
+    },
+    {
+      "old": "label:\"Warning Notifications\"",
+      "new": "label:\"警告通知\""
+    },
+    {
+      "old": "description:\"Show notifications for less urgent issues\"",
+      "new": "description:\"对不太紧急的问题显示通知\""
+    },
+    {
+      "old": "new br(\"undo\",\"Undo\"",
+      "new": "new br(\"undo\",\"撤销\""
+    },
+    {
+      "old": "new br(\"redo\",\"Redo\"",
+      "new": "new br(\"redo\",\"重做\""
+    },
+    {
+      "old": "new br(\"cut\",\"Cut\"",
+      "new": "new br(\"cut\",\"剪切\""
+    },
+    {
+      "old": "new br(\"copy\",\"Copy\"",
+      "new": "new br(\"copy\",\"复制\""
+    },
+    {
+      "old": "new br(\"paste\",\"Paste\"",
+      "new": "new br(\"paste\",\"粘贴\""
+    },
+    {
+      "old": "new br(\"selectAll\",\"Select All\"",
+      "new": "new br(\"selectAll\",\"全选\""
+    },
+    {
+      "old": "docs:\"Docs\",contact:\"Contact\"",
+      "new": "docs:\"文档\",contact:\"联系\""
+    },
+    {
+      "old": "iconName:\"arrow-left\",label:\"Back\"",
+      "new": "iconName:\"arrow-left\",label:\"返回\""
+    },
+    {
+      "old": "var I3u=\"Search Settings\"",
+      "new": "var I3u=\"搜索设置\""
+    },
+    {
+      "old": "title:\"Appearance\",children:",
+      "new": "title:\"外观\",children:"
+    },
+    {
+      "old": "label:\"Appearance\"",
+      "new": "label:\"外观\""
+    },
+    {
+      "old": "label:\"Theme\"",
+      "new": "label:\"主题\""
+    },
+    {
+      "old": "accessibleLabel:\"Theme\"",
+      "new": "accessibleLabel:\"主题\""
+    },
+    {
+      "old": "\"Choose between light, dark, or high contrast themes\"",
+      "new": "\"在浅色、深色或高对比度主题之间选择\""
+    },
+    {
+      "old": "{value:\"system\",label:\"System\"}",
+      "new": "{value:\"system\",label:\"系统\"}"
+    },
+    {
+      "old": "{value:\"workspace\",label:\"Workspace\"}",
+      "new": "{value:\"workspace\",label:\"工作区\"}"
+    },
+    {
+      "old": "{icon:\"color-mode\",label:\"System\"}",
+      "new": "{icon:\"color-mode\",label:\"跟随系统\"}"
+    },
+    {
+      "old": "label:\"Agent Conversations\"",
+      "new": "label:\"智能体对话\""
+    },
+    {
+      "old": "title:\"Agent Conversations\"",
+      "new": "title:\"智能体对话\""
+    },
+    {
+      "old": "accessibleLabel:\"Agent Conversations\"",
+      "new": "accessibleLabel:\"智能体对话\""
+    },
+    {
+      "old": "\"Adjust how much detail is shown for tool calls\"",
+      "new": "\"调整工具调用显示多少细节\""
+    },
+    {
+      "old": "label:\"Tool Call Density\"",
+      "new": "label:\"工具调用密度\""
+    },
+    {
+      "old": "\"Set the maximum width of Agent conversations\"",
+      "new": "\"设置智能体对话的最大宽度\""
+    },
+    {
+      "old": "label:\"Chat Width\"",
+      "new": "label:\"聊天宽度\""
+    },
+    {
+      "old": "\"Wrap long lines in Agent conversation code blocks\"",
+      "new": "\"在智能体对话代码块中自动换行\""
+    },
+    {
+      "old": "label:\"Code Block Word Wrap\"",
+      "new": "label:\"代码块自动换行\""
+    },
+    {
+      "old": "\"Use themed background colors for inline code diffs\"",
+      "new": "\"内联代码差异使用主题背景色\""
+    },
+    {
+      "old": "label:\"Themed Diff Backgrounds\"",
+      "new": "label:\"主题化差异背景\""
+    },
+    {
+      "old": "label:\"Colors\"",
+      "new": "label:\"颜色\""
+    },
+    {
+      "old": "\"Window Colors\"",
+      "new": "\"窗口颜色\""
+    },
+    {
+      "old": "\"Choose a tint color\"",
+      "new": "\"选择色调颜色\""
+    },
+    {
+      "old": "label:\"Hue\"",
+      "new": "label:\"色调\""
+    },
+    {
+      "old": "\"Control how strongly the tint is applied\"",
+      "new": "\"控制色调应用强度\""
+    },
+    {
+      "old": "label:\"Intensity\"",
+      "new": "label:\"强度\""
+    },
+    {
+      "old": "label:\"Compact\"",
+      "new": "label:\"紧凑\""
+    },
+    {
+      "old": "label:\"Balanced\"",
+      "new": "label:\"均衡\""
+    },
+    {
+      "old": "label:\"Detailed\"",
+      "new": "label:\"详细\""
+    },
+    {
+      "old": "children:\"Compact\"",
+      "new": "children:\"紧凑\""
+    },
+    {
+      "old": "children:\"Detailed\"",
+      "new": "children:\"详细\""
+    },
+    {
+      "old": "children:\"Narrow\"",
+      "new": "children:\"窄\""
+    },
+    {
+      "old": "children:\"Wide\"",
+      "new": "children:\"宽\""
+    },
+    {
+      "old": "ariaLabel:\"Compact grouped tool calls\",label:\"Compact\"",
+      "new": "ariaLabel:\"紧凑分组工具调用\",label:\"紧凑\""
+    },
+    {
+      "old": "label:\"Sign In\"",
+      "new": "label:\"登录\""
+    },
+    {
+      "old": "description:\"Sign in to get started with Cursor's AI features\"",
+      "new": "description:\"登录以开始使用 Cursor 的 AI 功能\""
+    },
+    {
+      "old": "label:\"Preferences\"",
+      "new": "label:\"偏好设置\""
+    },
+    {
+      "old": "label:\"Editor Settings\"",
+      "new": "label:\"编辑器设置\""
+    },
+    {
+      "old": "description:\"Configure font, formatting, minimap and more\"",
+      "new": "description:\"配置字体、格式、缩略图等\""
+    },
+    {
+      "old": "label:\"Keyboard Shortcuts\"",
+      "new": "label:\"键盘快捷键\""
+    },
+    {
+      "old": "description:\"Configure keyboard shortcuts\"",
+      "new": "description:\"配置键盘快捷键\""
+    },
+    {
+      "old": "label:\"Import Settings from VS Code\"",
+      "new": "label:\"从 VS Code 导入设置\""
+    },
+    {
+      "old": "description:\"Import settings, extensions, and keybindings from VS Code\"",
+      "new": "description:\"从 VS Code 导入设置、扩展和按键绑定\""
+    },
+    {
+      "old": "description:\"See warnings and tips that you\\u2019ve hidden\"",
+      "new": "description:\"查看你已隐藏的警告和提示\""
+    },
+    {
+      "old": "label:\"Layout\"",
+      "new": "label:\"布局\""
+    },
+    {
+      "old": "label:\"Conversation Density\"",
+      "new": "label:\"对话密度\""
+    },
+    {
+      "old": "description:\"Choose how much detail Agent tool calls show in the conversation\"",
+      "new": "description:\"选择智能体工具调用在对话中显示的详细程度\""
+    },
+    {
+      "old": "label:\"Status Bar\"",
+      "new": "label:\"状态栏\""
+    },
+    {
+      "old": "label:\"Review Control Location\"",
+      "new": "label:\"审阅控件位置\""
+    },
+    {
+      "old": "label:\"Auto-Hide Editor When Empty\"",
+      "new": "label:\"编辑器为空时自动隐藏\""
+    },
+    {
+      "old": "label:\"Open Chat as Editor Tabs\"",
+      "new": "label:\"以编辑器标签页打开聊天\""
+    },
+    {
+      "old": "label:\"Menu Bar Icon\"",
+      "new": "label:\"菜单栏图标\""
+    },
+    {
+      "old": "description:\"Show Cursor in the menu bar\"",
+      "new": "description:\"在菜单栏中显示 Cursor\""
+    },
+    {
+      "old": "label:\"System Tray Icon\"",
+      "new": "label:\"系统托盘图标\""
+    },
+    {
+      "old": "description:\"Show Cursor in the system tray\"",
+      "new": "description:\"在系统托盘中显示 Cursor\""
+    },
+    {
+      "old": "label:\"Completion Sound\"",
+      "new": "label:\"完成提示音\""
+    },
+    {
+      "old": "description:\"Play a sound when Agent finishes responding\"",
+      "new": "description:\"智能体回复完成时播放提示音\""
+    },
+    {
+      "old": "label:\"Verify Extension Signatures\"",
+      "new": "label:\"验证扩展签名\""
+    },
+    {
+      "old": "label:\"Follow System Color Scheme\"",
+      "new": "label:\"跟随系统配色\""
+    },
+    {
+      "old": "description:\"Match the active theme to your OS dark/light setting\"",
+      "new": "description:\"将当前主题与操作系统的深色/浅色设置匹配\""
+    },
+    {
+      "old": "description:\"Choose which theme to use\"",
+      "new": "description:\"选择要使用的主题\""
+    },
+    {
+      "old": "label:\"Light Theme\"",
+      "new": "label:\"浅色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in light mode\"",
+      "new": "description:\"选择系统处于浅色模式时使用的主题\""
+    },
+    {
+      "old": "label:\"Dark Theme\"",
+      "new": "label:\"深色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in dark mode\"",
+      "new": "description:\"选择系统处于深色模式时使用的主题\""
+    },
+    {
+      "old": "label:\"Follow System High Contrast\"",
+      "new": "label:\"跟随系统高对比度\""
+    },
+    {
+      "old": "description:\"Switch to a high contrast theme when your OS is in a high contrast mode\"",
+      "new": "description:\"当操作系统处于高对比度模式时切换到高对比度主题\""
+    },
+    {
+      "old": "label:\"High Contrast Light Theme\"",
+      "new": "label:\"高对比度浅色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in light high contrast mode\"",
+      "new": "description:\"选择系统处于浅色高对比度模式时使用的主题\""
+    },
+    {
+      "old": "label:\"High Contrast Dark Theme\"",
+      "new": "label:\"高对比度深色主题\""
+    },
+    {
+      "old": "description:\"Choose the theme used when your system is in dark high contrast mode\"",
+      "new": "description:\"选择系统处于深色高对比度模式时使用的主题\""
+    },
+    {
+      "old": "label:\"Manage Themes\"",
+      "new": "label:\"管理主题\""
+    },
+    {
+      "old": "description:\"Create your own themes, tweak the vibe, and import your favorites\"",
+      "new": "description:\"创建自己的主题、调整风格并导入常用主题\""
+    },
+    {
+      "old": "label:\"Reduce Transparency\"",
+      "new": "label:\"减少透明度\""
+    },
+    {
+      "old": "description:\"Replace translucent surfaces with opaque backgrounds\"",
+      "new": "description:\"用不透明背景替换半透明表面\""
+    },
+    {
+      "old": "label:\"Typography\"",
+      "new": "label:\"字体排版\""
+    },
+    {
+      "old": "label:\"UI Font Size\"",
+      "new": "label:\"界面字体大小\""
+    },
+    {
+      "old": "description:\"Font size for the Cursor user interface\"",
+      "new": "description:\"Cursor 用户界面的字体大小\""
+    },
+    {
+      "old": "label:\"Code Font Size\"",
+      "new": "label:\"代码字体大小\""
+    },
+    {
+      "old": "description:\"Font size for code editors and diffs\"",
+      "new": "description:\"代码编辑器和差异视图的字体大小\""
+    },
+    {
+      "old": "label:\"UI Font Family\"",
+      "new": "label:\"界面字体\""
+    },
+    {
+      "old": "description:\"Override the Cursor user interface typeface\"",
+      "new": "description:\"覆盖 Cursor 用户界面的字体\""
+    },
+    {
+      "old": "label:\"Code Font Family\"",
+      "new": "label:\"代码字体\""
+    },
+    {
+      "old": "description:\"Override the font for code editors and diffs\"",
+      "new": "description:\"覆盖代码编辑器和差异视图的字体\""
+    },
+    {
+      "old": "label:\"Font Smoothing\"",
+      "new": "label:\"字体平滑\""
+    },
+    {
+      "old": "description:\"Use native macOS font anti-aliasing\"",
+      "new": "description:\"使用 macOS 原生字体抗锯齿\""
+    },
+    {
+      "old": "label:\"Motion\"",
+      "new": "label:\"动画\""
+    },
+    {
+      "old": "label:\"Reduce Motion\"",
+      "new": "label:\"减少动画\""
+    },
+    {
+      "old": "description:\"Minimize interface animations\"",
+      "new": "description:\"减少界面动画\""
+    },
+    {
+      "old": "label:\"Fun\"",
+      "new": "label:\"趣味\""
+    },
+    {
+      "old": "label:\"Give the Agent a Confetti Cannon\"",
+      "new": "label:\"给智能体配一个彩带炮\""
+    },
+    {
+      "old": "description:\"Allow the agent to celebrate with a shower of confetti\"",
+      "new": "description:\"允许智能体用彩带雨庆祝\""
+    },
+    {
+      "old": "label:\"Privacy\"",
+      "new": "label:\"隐私\""
+    },
+    {
+      "old": "label:\"Hide Email Address\"",
+      "new": "label:\"隐藏邮箱地址\""
+    },
+    {
+      "old": "description:\"Partially mask your email address in the Cursor user interface\"",
+      "new": "description:\"在 Cursor 用户界面中部分遮盖你的邮箱地址\""
+    },
+    {
+      "old": "label:\"Monthly Limit\"",
+      "new": "label:\"月度限额\""
+    },
+    {
+      "old": "description:\"Set a fixed amount or make on-demand usage unlimited\"",
+      "new": "description:\"设置固定额度，或让按需使用不受限制\""
+    },
+    {
+      "old": "label:\"Cursor Tab\"",
+      "new": "label:\"Cursor Tab\""
+    },
+    {
+      "old": "description:\"Context-aware, multi-line suggestions around your cursor based on recent edits\"",
+      "new": "description:\"根据最近编辑内容，在光标处提供上下文相关的多行建议\""
+    },
+    {
+      "old": "label:\"Conversation\"",
+      "new": "label:\"对话\""
+    },
+    {
+      "old": "label:\"Usage Summary\"",
+      "new": "label:\"用量摘要\""
+    },
+    {
+      "old": "description:\"When to show the usage summary at the bottom of the chat pane\"",
+      "new": "description:\"在聊天面板底部显示用量摘要的时机\""
+    },
+    {
+      "old": "label:\"Text Size\"",
+      "new": "label:\"文字大小\""
+    },
+    {
+      "old": "description:\"Adjust the conversation text size\"",
+      "new": "description:\"调整对话文字大小\""
+    },
+    {
+      "old": "label:\"Default Environment\"",
+      "new": "label:\"默认环境\""
+    },
+    {
+      "old": "description:\"Where new agents start by default\"",
+      "new": "description:\"新智能体默认启动的环境\""
+    },
+    {
+      "old": "label:\"Queue Messages\"",
+      "new": "label:\"消息排队\""
+    },
+    {
+      "old": "description:\"Adjust the default behavior of sending a message while Agent is running\"",
+      "new": "description:\"调整智能体运行期间发送消息的默认行为\""
+    },
+    {
+      "old": "label:\"New Messages\"",
+      "new": "label:\"新消息\""
+    },
+    {
+      "old": "description:\"What sending a message while Agent is running does\"",
+      "new": "description:\"智能体运行期间发送消息时的行为\""
+    },
+    {
+      "old": "label:\"Manually Sent Messages from Queue\"",
+      "new": "label:\"从队列手动发送消息\""
+    },
+    {
+      "old": "description:\"What the queued-message Send Now action does\"",
+      "new": "description:\"队列中消息“立即发送”操作的行为\""
+    },
+    {
+      "old": "label:\"Agent Autocomplete\"",
+      "new": "label:\"智能体自动补全\""
+    },
+    {
+      "old": "description:\"Contextual suggestions while prompting Agent\"",
+      "new": "description:\"向智能体输入提示时的上下文建议\""
+    },
+    {
+      "old": "label:\"Auto-Approve Mode Transitions\"",
+      "new": "label:\"自动批准模式切换\""
+    },
+    {
+      "old": "description:\"Allow agent to switch to modes without asking. When off, skips if unanswered within 15 seconds.\"",
+      "new": "description:\"允许智能体无需询问即可切换模式。关闭时，15 秒内未答复则跳过。\""
+    },
+    {
+      "old": "label:\"Voice Submit Keywords\"",
+      "new": "label:\"语音提交关键词\""
+    },
+    {
+      "old": "description:\"Default voice for voice chats\"",
+      "new": "description:\"语音聊天使用的默认声音\""
+    },
+    {
+      "old": "label:\"Speed\"",
+      "new": "label:\"语速\""
+    },
+    {
+      "old": "description:\"How quickly the voice speaks in voice chats\"",
+      "new": "description:\"语音聊天中声音的说话速度\""
+    },
+    {
+      "old": "label:\"Language\"",
+      "new": "label:\"语言\""
+    },
+    {
+      "old": "description:\"Language used in voice chats\"",
+      "new": "description:\"语音聊天使用的语言\""
+    },
+    {
+      "old": "label:\"Submit Keywords\"",
+      "new": "label:\"提交关键词\""
+    },
+    {
+      "old": "description:\"Words that send your prompt while you dictate\"",
+      "new": "description:\"听写时用于发送提示词的关键词\""
+    },
+    {
+      "old": "label:\"Context and Tools\"",
+      "new": "label:\"上下文与工具\""
+    },
+    {
+      "old": "label:\"Web Search Tool\"",
+      "new": "label:\"联网搜索工具\""
+    },
+    {
+      "old": "description:\"Allow Agent to search the web for relevant information\"",
+      "new": "description:\"允许智能体联网搜索相关信息\""
+    },
+    {
+      "old": "label:\"Web Fetch Tool\"",
+      "new": "label:\"网页抓取工具\""
+    },
+    {
+      "old": "description:\"Allow Agent to fetch content from URLs\"",
+      "new": "description:\"允许智能体从 URL 抓取内容\""
+    },
+    {
+      "old": "label:\"Wait for MCP Authentication\"",
+      "new": "label:\"等待 MCP 认证\""
+    },
+    {
+      "old": "description:\"Wait indefinitely; otherwise skip prompts after 30 seconds\"",
+      "new": "description:\"无限期等待；否则在 30 秒后跳过提示\""
+    },
+    {
+      "old": "label:\"Execution and Approvals\"",
+      "new": "label:\"执行与批准\""
+    },
+    {
+      "old": "label:\"Run Mode\"",
+      "new": "label:\"运行模式\""
+    },
+    {
+      "old": "label:\"Read Access\"",
+      "new": "label:\"读取权限\""
+    },
+    {
+      "old": "description:\"Control whether agents can read files outside the workspace without approval.\"",
+      "new": "description:\"控制智能体是否可以在未经批准的情况下读取工作区之外的文件。\""
+    },
+    {
+      "old": "label:\"Read Allowlist\"",
+      "new": "label:\"读取白名单\""
+    },
+    {
+      "old": "description:\"File paths and glob patterns agents can read without approval.\"",
+      "new": "description:\"智能体无需批准即可读取的文件路径和通配符模式。\""
+    },
+    {
+      "old": "label:\"Terminal and Editing\"",
+      "new": "label:\"终端与编辑\""
+    },
+    {
+      "old": "label:\"Legacy Terminal Tool\"",
+      "new": "label:\"旧版终端工具\""
+    },
+    {
+      "old": "description:\"Use legacy terminal tool on unsupported shells\"",
+      "new": "description:\"在不支持的 shell 上使用旧版终端工具\""
+    },
+    {
+      "old": "label:\"LSP\"",
+      "new": "label:\"LSP\""
+    },
+    {
+      "old": "label:\"Enable LSPs\"",
+      "new": "label:\"启用 LSP\""
+    },
+    {
+      "old": "description:\"Enable language server by default to provide code intelligence in workspaces\"",
+      "new": "description:\"默认启用语言服务器，在工作区中提供代码智能\""
+    },
+    {
+      "old": "label:\"Enable LSPs for Worktrees\"",
+      "new": "label:\"为工作树启用 LSP\""
+    },
+    {
+      "old": "description:\"Enable language server by default to provide code intelligence in agent worktree workspaces\"",
+      "new": "description:\"默认启用语言服务器，在智能体工作树工作区中提供代码智能\""
+    },
+    {
+      "old": "label:\"Maximum Local LSP Workspaces\"",
+      "new": "label:\"本地 LSP 工作区上限\""
+    },
+    {
+      "old": "description:\"Maximum local workspaces that can run language servers at the same time\"",
+      "new": "description:\"可同时运行语言服务器的本地工作区数量上限\""
+    },
+    {
+      "old": "label:\"Maximum Remote LSP Workspaces\"",
+      "new": "label:\"远程 LSP 工作区上限\""
+    },
+    {
+      "old": "description:\"Maximum remote workspaces that can run language servers at the same time\"",
+      "new": "description:\"可同时运行语言服务器的远程工作区数量上限\""
+    },
+    {
+      "old": "label:\"Inline Diffs\"",
+      "new": "label:\"内联差异\""
+    },
+    {
+      "old": "description:\"Show inline diff decorations in the editor\"",
+      "new": "description:\"在编辑器中显示内联差异标记\""
+    },
+    {
+      "old": "label:\"Auto Format on Agent Finish\"",
+      "new": "label:\"智能体完成时自动格式化\""
+    },
+    {
+      "old": "description:\"Automatically format files when Agent finishes\"",
+      "new": "description:\"智能体完成时自动格式化文件\""
+    },
+    {
+      "old": "label:\"Sync Skills for Cloud Agents\"",
+      "new": "label:\"为云端智能体同步技能\""
+    },
+    {
+      "old": "description:\"Cursor syncs your local skills so they can be used with Cloud Agents\"",
+      "new": "description:\"Cursor 同步你的本地技能，以便云端智能体使用\""
+    },
+    {
+      "old": "label:\"Toolbar on Selection\"",
+      "new": "label:\"选中时显示工具栏\""
+    },
+    {
+      "old": "description:\"Show the Add to Chat button\"",
+      "new": "description:\"显示“添加到聊天”按钮\""
+    },
+    {
+      "old": "label:\"Terminal Hint\"",
+      "new": "label:\"终端提示\""
+    },
+    {
+      "old": "description:\"Show the Open worktree link in Terminal\"",
+      "new": "description:\"在终端中显示“打开工作树”链接\""
+    },
+    {
+      "old": "label:\"Task Models\"",
+      "new": "label:\"任务模型\""
+    },
+    {
+      "old": "label:\"Explore Subagent Model\"",
+      "new": "label:\"探索子智能体模型\""
+    },
+    {
+      "old": "description:\"Choose the model used by Explore subagent for initial research\"",
+      "new": "description:\"选择探索子智能体用于初始调研的模型\""
+    },
+    {
+      "old": "label:\"Gateway\"",
+      "new": "label:\"网关\""
+    },
+    {
+      "old": "description:\"Configure the local agent LLM gateway\"",
+      "new": "description:\"配置本地智能体 LLM 网关\""
+    },
+    {
+      "old": "label:\"Pull Requests\"",
+      "new": "label:\"拉取请求\""
+    },
+    {
+      "old": "label:\"Review Provider\"",
+      "new": "label:\"审阅提供方\""
+    },
+    {
+      "old": "label:\"PR Link Destination\"",
+      "new": "label:\"PR 链接打开位置\""
+    },
+    {
+      "old": "description:\"Open pull request links inside Cursor or the default browser\"",
+      "new": "description:\"在 Cursor 内或默认浏览器中打开拉取请求链接\""
+    },
+    {
+      "old": "label:\"Attribution\"",
+      "new": "label:\"归属\""
+    },
+    {
+      "old": "label:\"Commit Attribution\"",
+      "new": "label:\"提交归属\""
+    },
+    {
+      "old": "label:\"PR Attribution\"",
+      "new": "label:\"PR 归属\""
+    },
+    {
+      "old": "label:\"Branches\"",
+      "new": "label:\"分支\""
+    },
+    {
+      "old": "label:\"Branch Prefix\"",
+      "new": "label:\"分支前缀\""
+    },
+    {
+      "old": "description:\"Prefix for new Agent branches\"",
+      "new": "description:\"新智能体分支的前缀\""
+    },
+    {
+      "old": "label:\"Worktree Cleanup\"",
+      "new": "label:\"工作树清理\""
+    },
+    {
+      "old": "description:\"Cursor periodically removes old worktrees to free disk space\"",
+      "new": "description:\"Cursor 定期清理旧工作树以释放磁盘空间\""
+    },
+    {
+      "old": "label:\"Max Worktrees\"",
+      "new": "label:\"最大工作树数\""
+    },
+    {
+      "old": "description:\"Maximum retained Cursor-managed worktrees\"",
+      "new": "description:\"保留的 Cursor 管理工作树数量上限\""
+    },
+    {
+      "old": "label:\"Max Total Size (GB)\"",
+      "new": "label:\"最大总大小 (GB)\""
+    },
+    {
+      "old": "description:\"Maximum aggregate worktree size\"",
+      "new": "description:\"工作树总大小上限\""
+    },
+    {
+      "old": "label:\"Cursor-Managed Worktrees\"",
+      "new": "label:\"Cursor 管理工作树\""
+    },
+    {
+      "old": "label:\"Include Third-Party Plugins, Skills, and Other Configs\"",
+      "new": "label:\"包含第三方插件、技能和其他配置\""
+    },
+    {
+      "old": "description:\"Automatically import agent configs from other tools\"",
+      "new": "description:\"自动导入来自其他工具的智能体配置\""
+    },
+    {
+      "old": "label:\"Import Claude Code Conversations\"",
+      "new": "label:\"导入 Claude Code 对话\""
+    },
+    {
+      "old": "description:\"Sync chats and continue them in Cursor\"",
+      "new": "description:\"同步聊天并在 Cursor 中继续\""
+    },
+    {
+      "old": "label:\"Codebase\"",
+      "new": "label:\"代码库\""
+    },
+    {
+      "old": "label:\"Ignore Files in .cursorignore\"",
+      "new": "label:\"忽略 .cursorignore 中的文件\""
+    },
+    {
+      "old": "description:\"Files to exclude from indexing in addition to .gitignore\"",
+      "new": "description:\"除 .gitignore 外，还需从索引中排除的文件\""
+    },
+    {
+      "old": "label:\"Ignore Files\"",
+      "new": "label:\"忽略文件\""
+    },
+    {
+      "old": "label:\"Hierarchical Cursor Ignore\"",
+      "new": "label:\"分层 Cursor 忽略\""
+    },
+    {
+      "old": "description:\"Apply .cursorignore files to subdirectories\"",
+      "new": "description:\"将 .cursorignore 文件应用于子目录\""
+    },
+    {
+      "old": "label:\"Ignore Symlinks in Cursor Ignore Search\"",
+      "new": "label:\"忽略 Cursor 忽略搜索中的符号链接\""
+    },
+    {
+      "old": "description:\"Skip symlinks during discovery\"",
+      "new": "description:\"在发现过程中跳过符号链接\""
+    },
+    {
+      "old": "label:\"HTTP Compatibility Mode\"",
+      "new": "label:\"HTTP 兼容模式\""
+    },
+    {
+      "old": "description:\"Configure HTTP compatibility for proxies and VPNs\"",
+      "new": "description:\"为代理和 VPN 配置 HTTP 兼容性\""
+    },
+    {
+      "old": "label:\"Required Domains\"",
+      "new": "label:\"必需域名\""
+    },
+    {
+      "old": "description:\"Domains required for Cursor\"",
+      "new": "description:\"Cursor 运行所需的域名\""
+    },
+    {
+      "old": "label:\"Network Diagnostics\"",
+      "new": "label:\"网络诊断\""
+    },
+    {
+      "old": "description:\"Check connectivity to all Cursor services\"",
+      "new": "description:\"检查与所有 Cursor 服务的连接\""
+    },
+    {
+      "old": "label:\"Update Access\"",
+      "new": "label:\"更新权限\""
+    },
+    {
+      "old": "label:\"Dedicated Agent Runtime\"",
+      "new": "label:\"专用智能体运行时\""
+    },
+    {
+      "old": "description:\"Run Private Inference in a separate local process to isolate it from remote workspace activity. Reload Cursor after changing this setting.\"",
+      "new": "description:\"在独立的本地进程中运行私有推理，使其与远程工作区活动隔离。更改此设置后请重新加载 Cursor。\""
+    },
+    {
+      "old": "label:\"Tracing\"",
+      "new": "label:\"追踪\""
+    },
+    {
+      "old": "label:\"Local Trace Mode\"",
+      "new": "label:\"本地追踪模式\""
+    },
+    {
+      "old": "label:\"Continuous RPC File Recording\"",
+      "new": "label:\"持续 RPC 文件录制\""
+    }
+  ]
+}

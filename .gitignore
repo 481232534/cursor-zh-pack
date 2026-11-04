@@ -1,0 +1,8 @@
+patch.log
+install.lock
+*.zhbak
+*.bak
+anchors-v2.json
+anchors-v3.json
+anchors.json.pre-rebuild
+anchors.json.v5bak
